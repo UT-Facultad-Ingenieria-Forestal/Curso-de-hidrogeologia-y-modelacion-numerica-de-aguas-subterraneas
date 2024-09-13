@@ -5,4 +5,5 @@
 ![Uploading Figure1.png…]()
 
 
+![groundwater_pic1](https://github.com/user-attachments/assets/ae8a6ca1-250c-4aec-95c2-7df1d5b3e2b5)
 
