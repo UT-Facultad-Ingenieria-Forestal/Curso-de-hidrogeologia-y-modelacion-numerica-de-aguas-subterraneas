@@ -1,1 +1,1 @@
-# Curso-de-hidrogeologia-y-modelacion-numerica-de-aguas-subterraneas
+# CURSO DE HIDROGEOLOGÍA Y MODELACIÓN NUMÉRICA DE AGUAS SUBTERRÁNEAS
