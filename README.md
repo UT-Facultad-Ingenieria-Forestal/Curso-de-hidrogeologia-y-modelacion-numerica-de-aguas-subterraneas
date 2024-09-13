@@ -2,5 +2,5 @@
 
 ## Unidad 1. Interacción entre aguas superficiales y aguas subterráneas
 
-https://raw.githubusercontent.com/usuario/repositorio/rama/ruta/al/asset/
+https://raw.githubusercontent.com/UT-Facultad-Ingenieria-Forestal/Curso-de-hidrogeologia-y-modelacion-numerica-de-aguas-subterraneas/assets/
 
