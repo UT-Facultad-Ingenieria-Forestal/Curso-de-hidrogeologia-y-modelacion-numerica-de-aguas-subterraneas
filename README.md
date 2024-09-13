@@ -2,6 +2,7 @@
 
 ## Unidad 1. Interacción entre aguas superficiales y aguas subterráneas
 
+![Uploading Figure1.png…]()
 
-![Uploading DALL·E 2024-09-03 21.55.03 - Realistic illustration depicting the interaction between surface water and groundwater, without labels. The scene includes a river and a visible groun.png…]()
+
 
