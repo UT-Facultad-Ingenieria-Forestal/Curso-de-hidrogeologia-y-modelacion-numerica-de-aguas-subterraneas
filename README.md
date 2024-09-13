@@ -3,7 +3,8 @@
 ## Unidad 1. Interacción entre aguas superficiales y aguas subterráneas
 
 
-![2-Types-of-stream-aquifer-interactions-a-connected-gaining-stream-b](https://github.com/user-attachments/assets/b6f88837-a35c-4497-a514-fb6ce6f5451a)
+![nyhazard2x](https://github.com/user-attachments/assets/53edc7c5-fa9f-43a9-b551-63db68e7a64e)
+
 
 
 
