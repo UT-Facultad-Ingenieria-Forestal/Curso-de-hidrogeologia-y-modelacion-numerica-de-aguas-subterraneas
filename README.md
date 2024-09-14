@@ -1,7 +1,7 @@
 # <h1 align="center"> CURSO: HIDROGEOLOGÍA Y MODELACIÓN NUMÉRICA DE AGUAS SUBTERRÁNEAS
-**Align center:**
+
 <p align="center" width="100%">
-    <img width="15%" src="![descarga (1)](https://github.com/user-attachments/assets/7110ce17-67cf-45cf-9469-033a78c08dcc)
+    <img width="15%" src="https://github.com/user-attachments/assets/7110ce17-67cf-45cf-9469-033a78c08dcc.jpg
 "> 
 </p>
 
