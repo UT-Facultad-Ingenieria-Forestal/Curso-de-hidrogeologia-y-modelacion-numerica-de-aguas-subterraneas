@@ -4,7 +4,7 @@
 # <h1 align="center"> Capitulo 1. Interacción entre aguas superficiales y subterráneas: desde los procesos de cuencas hidrográficas hasta el intercambio hiporreico
 </p>
 <div align="center">
-	<img src="![2-Types-of-stream-aquifer-interactions-a-connected-gaining-stream-b](https://github.com/user-attachments/assets/076b8d2e-ce2a-455c-9cb7-df67e7ce8f32)
+	<img src="https://github.com/user-attachments/assets/076b8d2e-ce2a-455c-9cb7-df67e7ce8f32)
 ">
 </div>
 
