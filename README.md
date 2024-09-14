@@ -1,6 +1,6 @@
 # <h1 align="center"> CURSO: HIDROGEOLOGÍA Y MODELACIÓN NUMÉRICA DE AGUAS SUBTERRÁNEAS
 <div align="center">
-	<img src="https://github.com/user-attachments/assets/df473094-edf3-4a4b-ba3c-fa3b7e31fcbb.jpg">
+	<img src="!(https://github.com/user-attachments/assets/2fa4bd89-f50f-430b-a8f3-6d8242250d9b)">
 </div>
 
 # <h1 align="center"> Capitulo 1. Interacción entre aguas superficiales y subterráneas: desde los procesos de cuencas hidrográficas hasta el intercambio hiporreico
