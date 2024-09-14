@@ -1,9 +1,12 @@
-# CURSO DE HIDROGEOLOGÍA Y MODELACIÓN NUMÉRICA DE AGUAS SUBTERRÁNEAS
+# CURSO: HIDROGEOLOGÍA Y MODELACIÓN NUMÉRICA DE AGUAS SUBTERRÁNEAS
 
-## Unidad 1. Interacción entre aguas superficiales y aguas subterráneas
+##Capitulo 1. Interacción entre aguas superficiales y subterráneas: desde los procesos de cuencas hidrográficas hasta el intercambio hiporreico
+###Unidad 1. Introducción y características del flujo entre aguas subterráneas y superficiales
+###Unidad 2. Intercambio a escala de cuenca
+###Unidad 3. Intercambio hiporreico y métodos de campo de medidas SW-GW 
+###Unidad 4. Balance hídrico lago/humedal
 
 
-![nyhazard2x](https://github.com/user-attachments/assets/53edc7c5-fa9f-43a9-b551-63db68e7a64e)
 
 
 
