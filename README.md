@@ -5,7 +5,7 @@
 
 <div align="center">
 	<img src="[https://i.imgur.com/8BgVXcY.png](https://github.com/user-attachments/assets/68812300-6134-414c-80a9-f20e7c23a039)">
-</div>
+
 
 ## <h1 align="center"> Unidad 1. Introducción y características del flujo entre aguas subterráneas y superficiales
 ![2-Types-of-stream-aquifer-interactions-a-connected-gaining-stream-b](https://github.com/user-attachments/assets/a8ec44c6-84e3-4ae0-9703-983494c3ad62)
