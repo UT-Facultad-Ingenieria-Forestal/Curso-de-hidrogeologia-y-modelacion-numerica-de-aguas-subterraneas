@@ -1,6 +1,7 @@
 # <h1 align="center"> CURSO: HIDROGEOLOGÍA Y MODELACIÓN NUMÉRICA DE AGUAS SUBTERRÁNEAS
 <div align="center">
-	<img src="!https://github.com/user-attachments/assets/eb8c988d-cb3b-401f-b02e-dd48bbf5541b.png">
+	<img src=![DALL·E 2024-09-14 14 00 11 - Realistic illustration depicting the interaction between surface water and groundwater  The scene includes a river flowing through a lush green landsc](https://github.com/user-attachments/assets/de678e1c-6bb8-4406-a151-7d71b45e5064)
+"">
 </div>
 
 # <h1 align="center"> Capitulo 1. Interacción entre aguas superficiales y subterráneas: desde los procesos de cuencas hidrográficas hasta el intercambio hiporreico
