@@ -2,10 +2,10 @@
 ![USGS_WaterCycle_Spanish_REDUCED](https://github.com/user-attachments/assets/1b0b8215-0c1e-45ac-b7fe-c9c98e4efd90)
 
 ## Tabla de Contenidos
-1.[Capitulo 1. Interacción entre aguas superficiales y subterráneas: desde los procesos de cuencas hidrográficas hasta el intercambio hiporreico](#capitulo-1.-interacción-entre-aguas-superficiales-y-subterráneas:-desde-los-procesos-de-cuencas-hidrográficas-hasta-el-intercambio-hiporreico)
 
+1.[Capitulo 1. Interacción entre aguas superficiales y subterráneas: desde los procesos de cuencas hidrográficas hasta el intercambio hiporreico](#capitulo-1.-interacción-entre-aguas-superficiales-y-subterráneas:-desde-los-procesos-de-cuencas-hidrográficas-hasta-el-intercambio-hiporreico).
 
- 1.1[Unidad 1. Introducción y características del flujo entre aguas subterráneas y superficiales](#introducción-y-características-del-flujo-entre-aguas-subterráneas-y-superficiales),
+ 1.1[Unidad 1. Introducción y características del flujo entre aguas subterráneas y superficiales](#introducción-y-características-del-flujo-entre-aguas-subterráneas-y-superficiales).
 
  1.2[Unidad 2. Intercambio a escala de cuenca](#unidad-2.-intercambio-a-escala-de-cuenca)
 
