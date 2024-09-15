@@ -3,7 +3,7 @@
 
 ## Tabla de Contenidos
 
-  [1. Capitulo 1. Interacción entre aguas superficiales y subterráneas: desde los procesos de cuencas hidrográficas hasta el intercambio hiporreico](#Interacción).
+  [1. Capitulo 1. Interacción entre aguas superficiales y subterráneas: desde los procesos de cuencas hidrográficas hasta el intercambio hiporreico](##-<h1-align="center">-Capitulo-1.-).
 
   [1.1 Unidad 1. Introducción y características del flujo entre aguas subterráneas y superficiales](#introducción-y-características-del-flujo-entre-aguas-subterráneas-y-superficiales).
 
@@ -13,7 +13,7 @@
 
   [1.4 Unidad 4. Balance hídrico lago/humedal](#unidad-4.-Balance-hídrico-lago/humedal)
 
-  [1.5 Práctico 1. Modelación númerica de la interacción entre aguas superficiales y subterráneas (interacción rio-acuífero) bajo escenarios de explotación](#practico-1.-modelación-númerica-de-la-interacción-entre-aguas-superficiales-y-subterráneas-(interacción-rio-acuífero)-bajo-escenarios-de-explotación)
+  [1.5 Práctico 1. Modelación númerica de la interacción entre aguas superficiales y subterráneas (interacción río-acuífero) bajo escenarios de explotación](#practico-1.-modelación-númerica-de-la-interacción-entre-aguas-superficiales-y-subterráneas-(interacción-rio-acuífero)-bajo-escenarios-de-explotación)
 
   [1.6 Práctico 2. Modelación númerica de la interacción entre aguas superficiales y subterráneas (interacción lago-acuífero)](#practico-1.-modelación-númerica-de-la-interacción-entre-aguas-superficiales-y-subterráneas-(interacción-lago-acuífero))
 
