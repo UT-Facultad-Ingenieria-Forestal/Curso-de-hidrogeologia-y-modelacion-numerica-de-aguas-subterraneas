@@ -2,7 +2,6 @@
 <p align="center">
   <img src="https://github.com/user-attachments/assets/ecc23ee5-9e62-43cf-bc77-02514283d83a" alt="Sublime's custom image"/>
 </p>
-![Schematic-representation-of-a-the-point-scale-or-plot-scale-Only-influent-conditions](https://github.com/user-attachments/assets/ecc23ee5-9e62-43cf-bc77-02514283d83a)
 
 
 
