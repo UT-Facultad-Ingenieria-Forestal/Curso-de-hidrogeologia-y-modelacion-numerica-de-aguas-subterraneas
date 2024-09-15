@@ -8,16 +8,25 @@
 <p align="center">
   <img src="https://github.com/user-attachments/assets/a8ec44c6-84e3-4ae0-9703-983494c3ad62" alt="Sublime's custom image"/>
 </p>!
-[2-Types-of-stream-aquifer-interactions-a-connected-gaining-stream-b](https://github.com/user-attachments/assets/a8ec44c6-84e3-4ae0-9703-983494c3ad62)
+
 
 ## <h1 align="center"> Unidad 2. Intercambio a escala de cuenca
-![Schematic-representation-of-a-the-point-scale-or-plot-scale-Only-influent-conditions](https://github.com/user-attachments/assets/ef42f854-d267-41be-ac3f-5fa265903462)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/ef42f854-d267-41be-ac3f-5fa265903462" alt="Sublime's custom image"/>
+</p>!
+
 
 ## <h1 align="center"> Unidad 3. Intercambio hiporreico y métodos de campo de medidas SW-GW 
-![fig15](https://github.com/user-attachments/assets/24f90712-7a99-409c-a8d1-40b6c3c03c7c)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/24f90712-7a99-409c-a8d1-40b6c3c03c7c" alt="Sublime's custom image"/>
+</p>!
+
 
 ## <h1 align="center"> Unidad 4. Balance hídrico lago/humedal
-![lake](https://github.com/user-attachments/assets/e7382b75-c118-4eeb-a17e-2d556f05cede)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/e7382b75-c118-4eeb-a17e-2d556f05cede" alt="Sublime's custom image"/>
+</p>!
+
 
 ## <h1 align="center"> Práctico 1. Modelación númerica de la interacción entre aguas superficiales y subterráneas (modelacion de flujo interacción lago-acuífero)
 
