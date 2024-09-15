@@ -9,7 +9,7 @@
 ## <h1 align="center"> Unidad 1. Introducción y características del flujo entre aguas subterráneas y superficiales
 <p align="center">
   <img src="https://github.com/user-attachments/assets/a8ec44c6-84e3-4ae0-9703-983494c3ad62" alt="Sublime's custom image"/>
-</p>!
+</p>
 
 
 ## <h1 align="center"> Unidad 2. Intercambio a escala de cuenca
