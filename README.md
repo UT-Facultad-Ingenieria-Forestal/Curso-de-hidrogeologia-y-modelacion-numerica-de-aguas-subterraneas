@@ -1,5 +1,6 @@
 # <h1 align="center"> CURSO: HIDROGEOLOGÍA Y MODELACIÓN NUMÉRICA DE AGUAS SUBTERRÁNEAS
-[![USGS-Water-Cycle-Spanish-ONLINE-20230302.png](https://i.postimg.cc/2yJVLTnT/USGS-Water-Cycle-Spanish-ONLINE-20230302.png)](https://postimg.cc/m1Yb0YXF)
+![USGS_WaterCycle_Spanish_REDUCED](https://github.com/user-attachments/assets/1b0b8215-0c1e-45ac-b7fe-c9c98e4efd90)
+
 
 # <h1 align="center"> Capitulo 1. Interacción entre aguas superficiales y subterráneas: desde los procesos de cuencas hidrográficas hasta el intercambio hiporreico
 ![DALL·E 2024-09-14 14 00 11 - Realistic illustration depicting the interaction between surface water and groundwater  The scene includes a river flowing through a lush green landsc](https://github.com/user-attachments/assets/c9d45877-6bec-4437-a68c-1b0e683107be)
