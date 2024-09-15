@@ -30,7 +30,7 @@
 </p>
 
 
-## <h1 align="center"> Práctico 1. Modelación númerica de la interacción entre aguas superficiales y subterráneas (modelacion de flujo interacción lago-acuífero)
+## <h1 align="center"> Práctico 1. Modelación númerica de la interacción entre aguas superficiales y subterráneas (interacción lago-acuífero)
 
 
 
