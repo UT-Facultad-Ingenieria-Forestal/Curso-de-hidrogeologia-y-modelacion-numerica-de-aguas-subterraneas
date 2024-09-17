@@ -20,6 +20,7 @@
 
 
 # Capítulo 1. Interacción entre aguas superficiales y subterráneas: desde los procesos de cuencas hidrográficas hasta el intercambio hiporreico
+![DALL·E 2024-09-14 14 00 11 - Realistic illustration depicting the interaction between surface water and groundwater  The scene includes a river flowing through a lush green landsc](https://github.com/user-attachments/assets/9201caec-3171-40cf-803c-df7ce857ba22)
 
 
 ## Unidad 1. Introducción y características del flujo entre aguas subterráneas y superficiales
@@ -42,7 +43,7 @@
 
 ## Unidad 4. Balance hídrico lago-humedal
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/24f90712-7a99-409c-a8d1-40b6c3c03c7c" alt="Sublime's custom image"/>
+  <img src="https://github.com/user-attachments/assets/8a42ce0c-1aa0-40a2-903d-1b59440d371f"/>
 </p>
 
 ## 1.5 Práctico 1: Modelación numérica de la interacción río-acuífero bajo escenarios de explotación
