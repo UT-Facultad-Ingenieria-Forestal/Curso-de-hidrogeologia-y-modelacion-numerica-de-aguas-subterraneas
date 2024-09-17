@@ -50,6 +50,7 @@
 
   
 <h1 align="center">1.5 Práctico 1: Modelación numérica de la interacción río-acuífero bajo escenarios de explotación</h1>
+
 ### Haga clic en el icono de Google Colab para ejecutar el código por celdas
 
   <td>
