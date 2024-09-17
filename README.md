@@ -51,19 +51,16 @@
   
 <h1 align="center">1.5 Práctico 1: Modelación numérica de la interacción río-acuífero bajo escenarios de explotación</h1>
 
-# Evaluación individual práctico 1.
-
   <td>
     <a href="https://colab.research.google.com/drive/1R2HwbQCulKm-8FGok0mQM7jbnlz22Ikk?usp=drive_link" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
   </td>
   <td>
 
+## Evaluación individual práctico 1
 
   <a href="https://docs.google.com/forms/d/e/1FAIpQLSczVhloMrv4e0k1mNFs6CHfqj3TPMHfe5Xy_43XI0xA5g5eow/viewform?usp=sf_link">
   <img src="https://cdn-icons-png.flaticon.com/512/5968/5968528.png" width="50" height="50" alt="Google Forms">
 </a>
-
-
 
 
 <h1 align="center">1.6 Práctico 2: Modelación numérica de la interacción lago-acuífero</h1>
