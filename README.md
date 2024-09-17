@@ -50,14 +50,14 @@
 
   
 <h1 align="center">1.5 Práctico 1: Modelación numérica de la interacción río-acuífero bajo escenarios de explotación</h1>
-
+### Haga clic en el icono de Google Colab para ejecutar el código por celdas
   <td>
     <a href="https://colab.research.google.com/drive/1R2HwbQCulKm-8FGok0mQM7jbnlz22Ikk?usp=drive_link" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
   </td>
   <td>
 
 ## Evaluación individual práctico 1
-### A continuacion pulse el icono de google forms y presente la evaluación individual 
+### Haga clic en el ícono de Google Forms para presentar su evaluación individual del Práctico 1
 
   <a href="https://docs.google.com/forms/d/e/1FAIpQLSczVhloMrv4e0k1mNFs6CHfqj3TPMHfe5Xy_43XI0xA5g5eow/viewform?usp=sf_link">
   <img src="https://cdn-icons-png.flaticon.com/512/5968/5968528.png" width="50" height="50" alt="Google Forms">
