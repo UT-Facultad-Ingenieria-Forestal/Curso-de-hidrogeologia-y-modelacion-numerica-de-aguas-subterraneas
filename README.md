@@ -60,7 +60,6 @@
   
 
 <h1 align="center">1.6 Práctico 2: Modelación numérica de la interacción lago-acuífero</h1>
-<table align="left">
   <td>
     <a href="https://colab.research.google.com/drive/1OaTsTvTREaxyC3WcC_1tDsVIu3_UiihK#scrollTo=dc06dec7" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
   </td>
