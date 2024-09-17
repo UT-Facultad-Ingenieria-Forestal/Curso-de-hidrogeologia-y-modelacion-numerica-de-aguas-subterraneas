@@ -3,9 +3,9 @@
 
 ## Tabla de Contenidos
 
-# <h1 align="center"> Capítulo 1. Interacción entre aguas superficiales y subterráneas: desde los procesos de cuencas hidrográficas hasta el intercambio hiporreico
+# Capítulo 1: Interacción entre aguas superficiales y subterráneas: desde los procesos de cuencas hidrográficas hasta el intercambio hiporreico
 
-[capítulo-1-interacción-entre-aguas-superficiales-y-subterráneas-desde-los-procesos-de-cuencas-hidrográficas-hasta-el-intercambio-hiporreico)](#capítulo-1-interacción-entre-aguas-superficiales-y-subterráneas-desde-los-procesos-de-cuencas-hidrográficas-hasta-el-intercambio-hiporreico)
+[Capítulo-1-interacción-entre-aguas-superficiales-y-subterráneas-desde-los-procesos-de-cuencas-hidrográficas-hasta-el-intercambio-hiporreico)](#capítulo-1-interacción-entre-aguas-superficiales-y-subterráneas-desde-los-procesos-de-cuencas-hidrográficas-hasta-el-intercambio-hiporreico)
 
  [1. Capitulo 1. Interacción entre aguas superficiales y subterráneas: desde los procesos de cuencas hidrográficas hasta el intercambio hiporreico](#<h1-align="center">capitulo-1-interacción-entre-aguas-superficiales-y-subterráneas-desde-los-procesos-de-cuencas-hidrográficas-hasta-el-intercambio-hiporreico)
 
@@ -22,7 +22,7 @@
   [1.6 Práctico 2. Modelación númerica de la interacción entre aguas superficiales y aguas subterráneas (interacción lago-acuífero)](#practico-1.-modelación-númerica-de-la-interacción-entre-aguas-superficiales-y-subterráneas-(interacción-lago-acuífero))
 
 
-
+# <h1 align="center"> Capítulo 1. Interacción entre aguas superficiales y subterráneas: desde los procesos de cuencas hidrográficas hasta el intercambio hiporreico
 
 
 ## <h1 align="center"> Unidad 1. Introducción y características del flujo entre aguas subterráneas y superficiales
