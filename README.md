@@ -36,7 +36,7 @@
 </p>
 
 
-## Unidad 3. Intercambio hiporreico y métodos de campo de medidas SW-GW 
+<h1 align="center">Unidad 3. Intercambio hiporreico y métodos de campo de medidas SW-GW</h1>
 <p align="center">
   <img src="https://github.com/user-attachments/assets/24f90712-7a99-409c-a8d1-40b6c3c03c7c" alt="Sublime's custom image"/>
 </p>
