@@ -67,6 +67,8 @@
 
 
 <h1 align="center">1.6 Práctico 2: Modelación numérica de la interacción lago-acuífero</h1>
+
+### Haga clic en el icono de Google Colab para ejecutar el código por celdas
   <td>
     <a href="https://colab.research.google.com/drive/1OaTsTvTREaxyC3WcC_1tDsVIu3_UiihK#scrollTo=dc06dec7" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
   </td>
