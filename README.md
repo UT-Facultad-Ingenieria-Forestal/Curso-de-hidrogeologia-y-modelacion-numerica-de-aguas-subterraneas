@@ -42,7 +42,7 @@
 </p>
 
 
-## Unidad 4. Balance hídrico lago-humedal
+## <h1 align="center"> Unidad 4. Balance hídrico lago-humedal
 <p align="center">
   <img src="https://github.com/user-attachments/assets/8a42ce0c-1aa0-40a2-903d-1b59440d371f"/>
 </p>
