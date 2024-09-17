@@ -58,7 +58,10 @@
   <td>
 
 
-   [![Evaluación individual práctico 1](https://cdn-icons-png.flaticon.com/512/5968/5968528.png)](https://docs.google.com/forms/d/e/1FAIpQLSczVhloMrv4e0k1mNFs6CHfqj3TPMHfe5Xy_43XI0xA5g5eow/viewform?usp=sf_link)
+  <a href="https://docs.google.com/forms/d/e/1FAIpQLSczVhloMrv4e0k1mNFs6CHfqj3TPMHfe5Xy_43XI0xA5g5eow/viewform?usp=sf_link">
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968528.png" width="50" height="50" alt="Google Forms">
+</a>
+
 
 
 
