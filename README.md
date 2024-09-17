@@ -42,10 +42,11 @@
 </p>
 
 
-## <h1 align="center"> Unidad 4. Balance hídrico lago-humedal</h1>
+<h1 align="center">Unidad 4. Balance hídrico lago-humedal</h1>
 <p align="center">
   <img src="https://github.com/user-attachments/assets/8a42ce0c-1aa0-40a2-903d-1b59440d371f"/>
 </p>
+
 
 ## 1.5 Práctico 1: Modelación numérica de la interacción río-acuífero bajo escenarios de explotación
 
