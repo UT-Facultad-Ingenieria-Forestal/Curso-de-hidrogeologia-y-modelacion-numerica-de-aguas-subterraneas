@@ -47,24 +47,24 @@
   <img src="https://github.com/user-attachments/assets/8a42ce0c-1aa0-40a2-903d-1b59440d371f"/>
 </p>
 
+
+    
+<h1 align="center">1.5 Práctico 1: Modelación numérica de la interacción río-acuífero bajo escenarios de explotación</h1>
 <table align="left">
   <td>
     <a href="https://colab.research.google.com/drive/1R2HwbQCulKm-8FGok0mQM7jbnlz22Ikk?usp=drive_link" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
   </td>
   <td>
-    
-<h1 align="center">1.5 Práctico 1: Modelación numérica de la interacción río-acuífero bajo escenarios de explotación</h1>
 
 
+  
+
+<h1 align="center">1.6 Práctico 2: Modelación numérica de la interacción lago-acuífero</h1>
 <table align="left">
   <td>
     <a href="https://colab.research.google.com/drive/1OaTsTvTREaxyC3WcC_1tDsVIu3_UiihK#scrollTo=dc06dec7" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
   </td>
   <td>
-  
-
-<h1 align="center">1.6 Práctico 2: Modelación numérica de la interacción lago-acuífero</h1>
-
 
 
 
