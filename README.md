@@ -13,9 +13,9 @@
 
   [1.4 Unidad 4. Balance hídrico lago/humedal](#unidad-4-balance-hídrico-lago-humedal)
 
-  [1.5 Práctico 1. Modelación numérica de la interacción río-acuífero bajo escenarios de explotación](#práctico-1-modelación-numérica-de-la-interacción-río-acuífero-bajo-escenarios-de-explotación)
+  [1.5 Práctico 1. Modelación numérica de la interacción río-acuífero bajo escenarios de explotación](#15-práctico-1-modelación-numérica-de-la-interacción-río-acuífero-bajo-escenarios-de-explotación)
 
-  [1.6 Práctico 2. Modelación numérica de la interacción lago-acuífero](#práctico-2-modelación-numérica-de-la-interacción-lago-acuífero)
+  [1.6 Práctico 2. Modelación numérica de la interacción lago-acuífero](#16-práctico-2-modelación-numérica-de-la-interacción-lago-acuífero)
 
 
 
@@ -45,9 +45,10 @@
   <img src="https://github.com/user-attachments/assets/24f90712-7a99-409c-a8d1-40b6c3c03c7c" alt="Sublime's custom image"/>
 </p>
 
-## 1.5 Práctico 1. Modelación numérica de la interacción río-acuífero bajo escenarios de explotación
+## 1.5 Práctico 1: Modelación numérica de la interacción río-acuífero bajo escenarios de explotación
 
-## Práctico 2. Modelación númerica de la interacción entre aguas superficiales y aguas subterráneas interacción lago-acuífero
+## 1.6 Práctico 2: Modelación numérica de la interacción lago-acuífero
+
 
 
 
