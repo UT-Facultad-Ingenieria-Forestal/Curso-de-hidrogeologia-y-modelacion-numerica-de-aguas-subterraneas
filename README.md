@@ -3,6 +3,8 @@
 
 ## Tabla de Contenidos
 
+# Capítulo 1: Interacción entre aguas superficiales y subterráneas: desde los procesos de cuencas hidrográficas hasta el intercambio hiporreico
+
 
 [capítulo-1-interacción-entre-aguas-superficiales-y-subterráneas-desde-los-procesos-de-cuencas-hidrográficas-hasta-el-intercambio-hiporreico)](#capítulo-1-interacción-entre-aguas-superficiales-y-subterráneas-desde-los-procesos-de-cuencas-hidrográficas-hasta-el-intercambio-hiporreico)
 
@@ -20,8 +22,7 @@
 
   [1.6 Práctico 2. Modelación númerica de la interacción entre aguas superficiales y aguas subterráneas (interacción lago-acuífero)](#practico-1.-modelación-númerica-de-la-interacción-entre-aguas-superficiales-y-subterráneas-(interacción-lago-acuífero))
 
-# <h1 align="center"> Capitulo 1. Interacción entre aguas superficiales y subterráneas: desde los procesos de cuencas hidrográficas hasta el intercambio hiporreico
-![DALL·E 2024-09-03 21 55 03 - Realistic illustration depicting the interaction between surface water and groundwater, without labels  The scene includes a river and a visible groun](https://github.com/user-attachments/assets/943c81cc-5623-4bfe-a8ba-42794c67e6f8)
+
 
 
 
