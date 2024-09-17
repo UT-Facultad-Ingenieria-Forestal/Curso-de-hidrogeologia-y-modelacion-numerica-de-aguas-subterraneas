@@ -3,19 +3,20 @@
 
 ## Tabla de Contenidos
 
-[<h1-align="center">Capítulo-1-interacción-entre-aguas-superficiales-y-subterráneas-desde-los-procesos-de-cuencas-hidrográficas-hasta-el-intercambio-hiporreico)](#capítulo-1-interacción-entre-aguas-superficiales-y-subterráneas-desde-los-procesos-de-cuencas-hidrográficas-hasta-el-intercambio-hiporreico)
+[Capítulo-1-interacción-entre-aguas-superficiales-y-subterráneas-desde-los-procesos-de-cuencas-hidrográficas-hasta-el-intercambio-hiporreico)](#capítulo-1-interacción-entre-aguas-superficiales-y-subterráneas-desde-los-procesos-de-cuencas-hidrográficas-hasta-el-intercambio-hiporreico)
 
-  [1.1 Unidad 1. Introducción y características del flujo entre aguas subterráneas y superficiales](#introducción-y-características-del-flujo-entre-aguas-subterráneas-y-superficiales)
+  [1.1 Unidad 1. Introducción y características del flujo entre aguas subterráneas y superficiales](#unidad-1-introducción-y-características-del-flujo-entre-aguas-subterráneas-y-superficiales)
 
-  [1.2 Unidad 2. Intercambio a escala de cuenca](#unidad-2.-intercambio-a-escala-de-cuenca)
+  [1.2 Unidad 2. Intercambio a escala de cuenca](#unidad-2-intercambio-a-escala-de-cuenca)
 
-  [1.3 Unidad 3. Intercambio hiporreico y métodos de campo de medidas SW-GW](#unidad-3.-intercambio-hiporreico-y-métodos-de-campo-de-medidas-SW-GW)
+  [1.3 Unidad 3. Intercambio hiporreico y métodos de campo de medidas SW-GW](#unidad-3-intercambio-hiporreico-y-métodos-de-campo-de-medidas-sw-gw)
 
-  [1.4 Unidad 4. Balance hídrico lago/humedal](#unidad-4.-Balance-hídrico-lago/humedal)
+  [1.4 Unidad 4. Balance hídrico lago/humedal](#unidad-4-balance-hídrico-lago-humedal)
 
-  [1.5 Práctico 1. Modelación númerica de la interacción entre aguas superficiales y aguas subterráneas (interacción río-acuífero) bajo escenarios de explotación](#practico-1.-modelación-númerica-de-la-interacción-entre-aguas-superficiales-y-subterráneas-(interacción-rio-acuífero)-bajo-escenarios-de-explotación)
+  [1.5 Práctico 1. Modelación numérica de la interacción entre aguas superficiales y aguas subterráneas (interacción río-acuífero) bajo escenarios de explotación](#práctico-1-modelación-numérica-de-la-interacción-entre-aguas-superficiales-y-subterráneas-interacción-río-acuífero-bajo-escenarios-de-explotación)
 
-  [1.6 Práctico 2. Modelación númerica de la interacción entre aguas superficiales y aguas subterráneas (interacción lago-acuífero)](#practico-1.-modelación-númerica-de-la-interacción-entre-aguas-superficiales-y-subterráneas-(interacción-lago-acuífero))
+  [1.6 Práctico 2. Modelación numérica de la interacción entre aguas superficiales y aguas subterráneas (interacción lago-acuífero)](#práctico-2-modelación-numérica-de-la-interacción-entre-aguas-superficiales-y-subterráneas-interacción-lago-acuífero)
+
 
 
 # Capítulo 1. Interacción entre aguas superficiales y subterráneas: desde los procesos de cuencas hidrográficas hasta el intercambio hiporreico
