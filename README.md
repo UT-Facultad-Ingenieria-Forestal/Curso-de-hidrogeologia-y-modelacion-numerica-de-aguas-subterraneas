@@ -57,8 +57,11 @@
   </td>
   <td>
 
-https://docs.google.com/forms/d/e/1FAIpQLSczVhloMrv4e0k1mNFs6CHfqj3TPMHfe5Xy_43XI0xA5g5eow/viewform?usp=sf_link
-  
+
+  [Accede al formulario aquí!](https://docs.google.com/forms/d/e/1FAIpQLSczVhloMrv4e0k1mNFs6CHfqj3TPMHfe5Xy_43XI0xA5g5eow/viewform?usp=sf_link)
+  [![Formulario](https://ruta/a/imagen-de-formulario.jpg)](https://docs.google.com/forms/d/e/1FAIpQLSczVhloMrv4e0k1mNFs6CHfqj3TPMHfe5Xy_43XI0xA5g5eow/viewform?usp=sf_link)
+
+
 
 <h1 align="center">1.6 Práctico 2: Modelación numérica de la interacción lago-acuífero</h1>
   <td>
