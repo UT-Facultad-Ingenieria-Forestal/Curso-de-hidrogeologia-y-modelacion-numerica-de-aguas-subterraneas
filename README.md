@@ -48,9 +48,9 @@
 </p>
 
 
-## 1.5 Práctico 1: Modelación numérica de la interacción río-acuífero bajo escenarios de explotación
+<h1 align="center">1.5 Práctico 1: Modelación numérica de la interacción río-acuífero bajo escenarios de explotación</h1>
 
-## 1.6 Práctico 2: Modelación numérica de la interacción lago-acuífero
+<h1 align="center">1.6 Práctico 2: Modelación numérica de la interacción lago-acuífero</h1>
 
 
 
