@@ -41,11 +41,13 @@
 
 
 ## Unidad 4. Balance hídrico lago-humedal
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/24f90712-7a99-409c-a8d1-40b6c3c03c7c" alt="Sublime's custom image"/>
+</p>
 
+## Práctico 1. Modelación númerica de la interacción entre aguas superficiales y aguas subterráneas interacción río-acuífero bajo escenarios de explotación
 
-## Práctico 1. Modelación númerica de la interacción entre aguas superficiales y aguas subterráneas (interacción río-acuífero) bajo escenarios de explotación
-
-## Práctico 2. Modelación númerica de la interacción entre aguas superficiales y aguas subterráneas (interacción lago-acuífero)
+## Práctico 2. Modelación númerica de la interacción entre aguas superficiales y aguas subterráneas interacción lago-acuífero
 
 
 
