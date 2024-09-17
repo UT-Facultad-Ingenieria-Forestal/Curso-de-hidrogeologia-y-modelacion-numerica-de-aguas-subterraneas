@@ -20,8 +20,9 @@
 
 
 <h1 align="center">Capítulo 1. Interacción entre aguas superficiales y subterráneas: desde los procesos de cuencas hidrográficas hasta el intercambio hiporreico</h1>
-![DALL·E 2024-09-03 21 55 03 - Realistic illustration depicting the interaction between surface water and groundwater, without labels  The scene includes a river and a visible groun](https://github.com/user-attachments/assets/833c7222-cf2d-45de-8e90-2c246d014131)
-
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/833c7222-cf2d-45de-8e90-2c246d014131"/>
+</p>
 
 
 <h1 align="center">Unidad 1. Introducción y características del flujo entre aguas subterráneas y superficiales</h1>
