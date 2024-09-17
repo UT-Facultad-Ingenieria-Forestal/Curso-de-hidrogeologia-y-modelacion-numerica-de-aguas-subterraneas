@@ -18,7 +18,6 @@
   [1.6 Práctico 2. Modelación numérica de la interacción entre aguas superficiales y aguas subterráneas (interacción lago-acuífero)](#práctico-2-modelación-numérica-de-la-interacción-entre-aguas-superficiales-y-subterráneas-interacción-lago-acuífero)
 
 
-
 # Capítulo 1. Interacción entre aguas superficiales y subterráneas: desde los procesos de cuencas hidrográficas hasta el intercambio hiporreico
 
 
