@@ -75,7 +75,7 @@
   <td>
 
 ## Coevaluacion práctico 2
-### Evalúa el desempeño de tu compañero en el proyecto de grupo,  considerando los objetivos establecidos en el presente curso. Usa una escala del 1 al 5, donde 1 es "muy insuficiente" y 5 es "excelente" Considere su contribución al trabajo práctico 2 y su capacidad para trabajar en equipo.
+#### Evalúa el desempeño de tu compañero en el proyecto de grupo,  considerando los objetivos establecidos en el presente curso. Usa una escala del 1 al 5, donde 1 es "muy insuficiente" y 5 es "excelente" Considere su contribución al trabajo práctico 2 y su capacidad para trabajar en equipo.
 
 **Objetivo:** Fomentar la evaluación crítica entre compañeros para mejorar la comprensión colectiva.
 
