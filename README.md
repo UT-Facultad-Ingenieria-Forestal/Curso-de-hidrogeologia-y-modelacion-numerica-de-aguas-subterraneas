@@ -59,6 +59,13 @@
   <td>
 
 ## Heteroevaluación práctico 1
+
+**Objetivo:** Evaluar la capacidad del estudiante para aplicar conocimientos teóricos a casos prácticos reales.
+
+**Método:** Examen escrito o proyecto que requiera análisis de un caso de estudio específico donde las interacciones entre aguas subterráneas y superficiales sean clave.
+
+**Criterios de evaluación:** Comprensión de los procesos hidrológicos, capacidad para identificar impactos humanos en estos sistemas, y habilidades para proponer soluciones sostenibles.
+
 ### Haga clic en el ícono de Google Forms para presentar su evaluación individual del Práctico 1
 
   <a href="https://docs.google.com/forms/d/e/1FAIpQLSczVhloMrv4e0k1mNFs6CHfqj3TPMHfe5Xy_43XI0xA5g5eow/viewform?usp=sf_link">
