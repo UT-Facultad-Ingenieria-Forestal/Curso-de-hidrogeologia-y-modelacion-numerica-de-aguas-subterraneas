@@ -58,7 +58,7 @@
   </td>
   <td>
 
-## Evaluación individual práctico 1
+## Heteroevaluación práctico 1
 ### Haga clic en el ícono de Google Forms para presentar su evaluación individual del Práctico 1
 
   <a href="https://docs.google.com/forms/d/e/1FAIpQLSczVhloMrv4e0k1mNFs6CHfqj3TPMHfe5Xy_43XI0xA5g5eow/viewform?usp=sf_link">
@@ -74,7 +74,8 @@
   </td>
   <td>
 
-## Evaluación individual práctico 2
+## Coevaluacion práctico 2
+### Instrucciones para el alumno: Evalúa el desempeño de tu compañero en el proyecto de grupo,  considerando los objetivos establecidos en el presente curso. Usa una escala del 1 al 5, donde 1 es "muy insuficiente" y 5 es "excelente" Considere su contribución al trabajo práctico 2 y su capacidad para trabajar en equipo.
 
 
 
