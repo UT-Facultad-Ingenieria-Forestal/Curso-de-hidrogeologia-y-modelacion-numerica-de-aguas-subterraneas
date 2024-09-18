@@ -62,7 +62,7 @@
 
 **Objetivo:** Evaluar la capacidad del estudiante para aplicar conocimientos teóricos a casos prácticos reales.
 
-**Método:** Examen escrito o proyecto que requiera análisis de un caso de estudio específico donde las interacciones entre aguas subterráneas y superficiales sean clave.
+**Método:** Examen de seleccion multiple a traves de Google Forms, enfocado en evaluar los conocimientos adquiridos sobre las interacciones entre las aguas subterráneas y superficiales
 
 **Criterios de evaluación:** Comprensión de los procesos hidrológicos, capacidad para identificar impactos humanos en estos sistemas, y habilidades para proponer soluciones sostenibles.
 
