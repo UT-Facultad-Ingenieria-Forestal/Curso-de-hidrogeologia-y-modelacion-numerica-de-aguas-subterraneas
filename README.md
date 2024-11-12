@@ -3,11 +3,11 @@
 
 ## Tabla de Contenido
 
-[Unidad 1. Interacción entre las aguas superficiales y las aguas subterráneas y su impacto en las planicies de inundación ](#Unidad-1-interacción-entre-aguas-superficiales-y-subterráneas-desde-los-procesos-de-cuencas-hidrográficas-hasta-el-intercambio-hiporreico)
+[Unidad 1. Interacción entre las aguas superficiales y las aguas subterráneas y su impacto en las planicies de inundación](#Unidad-1-interacción-entre-aguas-superficiales-y-subterráneas-desde-los-procesos-de-cuencas-hidrográficas-hasta-el-intercambio-hiporreico)
 
 ### Contenidos :
 
-  [1.1 Introducción y características del flujo entre las aguas subterráneas y superficiales (interacciones acuífero-río-planicie inundable)](#1.1-Introducción-y-características-del-flujo-entre-las-aguas-subterráneas-y-superficiales)
+  [1.1-Introducción-y-características-del-flujo-entre-las-aguas-subterráneas-y-superficiales-(interacciones-acuífero-río-planicie-inundable)](#[1.1-Introducción-y-características-del-flujo-entre-las-aguas-subterráneas-y-superficiales-(interacciones-acuífero-río-planicie-inundable)
 
   [1.2 Unidad 2. Intercambio a escala de cuenca](#unidad-2-intercambio-a-escala-de-cuenca)
 
@@ -21,7 +21,7 @@
 
 
 
-<h1 align="center">Unidad 1. Interacción entre las aguas superficiales y las aguas subterráneas y su impacto en las planicies de inundación </h1>
+<h1 align="center">Unidad-1-interacción-entre-aguas-superficiales-y-subterráneas-desde-los-procesos-de-cuencas-hidrográficas-hasta-el-intercambio-hiporreico</h1>
 <p align="center">
   <img src="https://github.com/user-attachments/assets/833c7222-cf2d-45de-8e90-2c246d014131"/>
 </p>
