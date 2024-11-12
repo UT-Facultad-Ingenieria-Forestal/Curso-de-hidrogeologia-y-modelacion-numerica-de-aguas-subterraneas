@@ -31,7 +31,7 @@
 </p>
 
 
-<h1 align="center">Unidad 2. Intercambio a escala de cuenca</h1>
+<h1 align="center">1.2 Intercambio hiporreico y métodos de cuantificación de las interacciones entre el acuífero, el río y la planicie inundable</h1>
 <p align="center">
   <img src="https://github.com/user-attachments/assets/ef42f854-d267-41be-ac3f-5fa265903462" alt="Sublime's custom image"/>
 </p>
