@@ -13,7 +13,7 @@
 
   [1.3 Modelación numérica del flujo de la interacción entre el acuífero, el río y la planicie inundable](#13-Modelación-numérica-del-flujo-de-la-interacción-entre-el-acuífero-el-río-y-la-planicie-inundable)
 
-  [1.4 Práctico 1. Modelación numérica de la interacción río-acuífero bajo escenarios de explotación](#14-práctico-1-modelación-numérica-de-la-interacción-río-acuífero-bajo-escenarios-de-explotación)
+  [1.4 Práctico 1. Modelación numérica de la interacción entre el acuífero, el río y la planicie inundable bajo escenarios de explotación](#14-práctico-1-modelación-numérica-de-la-interacción-entre-el-acuífero,-el-río-y-la-planicie-inundable-bajo-escenarios-de-explotación)
 
   [1.5 Práctico 2. Modelación numérica de la interacción lago-acuífero](#15-práctico-2-modelación-numérica-de-la-interacción-lago-acuífero)
 
@@ -43,7 +43,7 @@
 </p>
 
 
-<h1 align="center">1.4 Práctico 1: Modelación numérica de la interacción río-acuífero bajo escenarios de explotación</h1>
+<h1 align="center">1.4 Práctico 1: Modelación numérica de la interacción entre el acuífero, el río y la planicie inundable bajo escenarios de explotación</h1>
 
 ### Haga clic en el icono de Google Colab para ejecutar el código por celdas
 
