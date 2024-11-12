@@ -7,7 +7,8 @@
 
 ### Contenidos :
 
- [1.1 Balance hídrico e introducción a las características del flujo entre las aguas subterráneas y superficiales interacciones-acuífero-río-planicie-inundable](#1.1-Balance-hídrico-e-introducción-a-las-características-del-flujo-entre-las-aguas-subterráneas-y-superficiales-interacciones-acuífero-río-planicie-inundable)
+ [1.1 Balance hídrico e introducción a las características del flujo entre las aguas subterráneas y superficiales interacciones|acuífero|río|planicie|inundable](#1.1-Balance-hídrico-e-introducción-a-las-características-del-flujo-entre-las-aguas-subterráneas-y-superficiales-interacciones|acuífero|río|planicie|inundable)
+
 
   [1.2 Intercambio hiporreico y métodos de cuantificación de las interacciones entre el acuífero, el río y la planicie inundable](#12-Intercambio-hiporreico-y-métodos-de-cuantificación-de-las-interacciones-entre-el-acuífero,-el-río-y-la-planicie-inundable)
 
@@ -25,7 +26,7 @@
 </p>
 
 
-<h1 align="center">1.1 Balance hídrico e introducción a las características del flujo entre las aguas subterráneas y superficiales interacciones acuífero río planicie inundable</h1>
+<h1 id="1.1-Balance-hídrico-e-introducción-a-las-características-del-flujo-entre-las-aguas-subterráneas-y-superficiales-interacciones|acuífero|río|planicie|inundable" align="center">1.1 Balance hídrico e introducción a las características del flujo entre las aguas subterráneas y superficiales (interacciones acuífero río planicie inundable)</h1>
 <p align="center">
   <img src="https://github.com/user-attachments/assets/a8ec44c6-84e3-4ae0-9703-983494c3ad62" alt="Sublime's custom image"/>
 </p>
