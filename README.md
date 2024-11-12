@@ -7,11 +7,11 @@
 
 ### Contenidos :
 
-  [1.1 Balance hídrico e introducción a las características del flujo entre las aguas subterráneas y superficiales (interacciones-acuífero-río-planicie-inundable)](#1.1-Balance-hídrico-e-introducción-a-las-características-del-flujo-entre-las-aguas-subterráneas-y-superficiales-(interacciones-acuífero-río-planicie-inundable))
+  [1.1 Balance hídrico e introducción a las características del flujo entre las aguas subterráneas y superficiales (interacciones-acuífero-río-planicie-inundable)](#11-Balance-hídrico-e-introducción-a-las-características-del-flujo-entre-las-aguas-subterráneas-y-superficiales-(interacciones-acuífero-río-planicie-inundable))
 
-  [1.2 Intercambio hiporreico y métodos de cuantificación de las interacciones entre el acuífero, el río y la planicie inundable](#1.2-Intercambio-hiporreico-y-métodos-de-cuantificación-de-las-interacciones-entre-el-acuífero,-el-río-y-la-planicie-inundable)
+  [1.2 Intercambio hiporreico y métodos de cuantificación de las interacciones entre el acuífero, el río y la planicie inundable](#12-Intercambio-hiporreico-y-métodos-de-cuantificación-de-las-interacciones-entre-el-acuífero,-el-río-y-la-planicie-inundable)
 
-  [1.3 Unidad 3. Intercambio hiporreico y métodos de campo de medidas SW-GW](#unidad-3-intercambio-hiporreico-y-métodos-de-campo-de-medidas-sw-gw)
+  [1.3 Modelación numérica del flujo de la interacción entre el acuífero, el río y la planicie inundable](#13-Modelación-numérica-del-flujo-de-la-interacción-entre-el-acuífero-el-río-y-la-planicie-inundable)
 
   [1.5 Práctico 1. Modelación numérica de la interacción río-acuífero bajo escenarios de explotación](#15-práctico-1-modelación-numérica-de-la-interacción-río-acuífero-bajo-escenarios-de-explotación)
 
@@ -37,18 +37,12 @@
 </p>
 
 
-<h1 align="center">Unidad 3. Intercambio hiporreico y métodos de campo de medidas SW-GW</h1>
+<h1 align="center">1.3 Modelación numérica del flujo de la interacción entre el acuífero, el río y la planicie inundable</h1>
 <p align="center">
   <img src="https://github.com/user-attachments/assets/24f90712-7a99-409c-a8d1-40b6c3c03c7c" alt="Sublime's custom image"/>
 </p>
 
 
-<h1 align="center">Unidad 4. Balance hídrico lago-humedal</h1>
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/8a42ce0c-1aa0-40a2-903d-1b59440d371f"/>
-</p>
-
-  
 <h1 align="center">1.5 Práctico 1: Modelación numérica de la interacción río-acuífero bajo escenarios de explotación</h1>
 
 ### Haga clic en el icono de Google Colab para ejecutar el código por celdas
