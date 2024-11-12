@@ -3,7 +3,7 @@
 
 ## Tabla de Contenido
 
-[Unidad 1. Interacción entre las aguas superficiales y las aguas subterráneas y su impacto en las planicies de inundación](#Unidad-1-interacción-entre-aguas-superficiales-y-subterráneas-desde-los-procesos-de-cuencas-hidrográficas-hasta-el-intercambio-hiporreico)
+![Unidad 1. Interacción entre las aguas superficiales y las aguas subterráneas y su impacto en las planicies de inundación](#Unidad-1-interacción-entre-aguas-superficiales-y-subterráneas-desde-los-procesos-de-cuencas-hidrográficas-hasta-el-intercambio-hiporreico)
 
 ### Contenidos :
 
