@@ -7,13 +7,11 @@
 
 ### Contenidos :
 
-  [1.1-Introducción-y-características-del-flujo-entre-las-aguas-subterráneas-y-superficiales-(interacciones-acuífero-río-planicie-inundable)](#[1.1-Introducción-y-características-del-flujo-entre-las-aguas-subterráneas-y-superficiales-(interacciones-acuífero-río-planicie-inundable)
+  [1.1-Introducción-y-características-del-flujo-entre-las-aguas-subterráneas-y-superficiales-(interacciones-acuífero-río-planicie-inundable)](#1.1-Introducción-y-características-del-flujo-entre-las-aguas-subterráneas-y-superficiales-(interacciones-acuífero-río-planicie-inundable)
 
-  [1.2 Unidad 2. Intercambio a escala de cuenca](#unidad-2-intercambio-a-escala-de-cuenca)
+  [1.2 Intercambio a escala de cuenca](#unidad-2-intercambio-a-escala-de-cuenca)
 
   [1.3 Unidad 3. Intercambio hiporreico y métodos de campo de medidas SW-GW](#unidad-3-intercambio-hiporreico-y-métodos-de-campo-de-medidas-sw-gw)
-
-  [1.4 Unidad 4. Balance hídrico lago/humedal](#unidad-4-balance-hídrico-lago-humedal)
 
   [1.5 Práctico 1. Modelación numérica de la interacción río-acuífero bajo escenarios de explotación](#15-práctico-1-modelación-numérica-de-la-interacción-río-acuífero-bajo-escenarios-de-explotación)
 
