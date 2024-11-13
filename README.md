@@ -56,7 +56,7 @@
   </td>
   <td>
 
-## heteroevaluación práctico 1
+## Heteroevaluación práctico 1
 
 **Objetivo:** Evaluar la capacidad del estudiante para aplicar conocimientos teóricos a casos prácticos reales.
 
