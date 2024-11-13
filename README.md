@@ -31,15 +31,15 @@
 
 <h1 align="center">1.2 Intercambio hiporreico y métodos de cuantificación de las interacciones entre el acuífero, el río y la planicie inundable</h1>
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/ef42f854-d267-41be-ac3f-5fa265903462" alt="Sublime's custom image"/>
-</p>
+ <img src="https://github.com/user-attachments/assets/24f90712-7a99-409c-a8d1-40b6c3c03c7c" alt="Sublime's custom image"/>
+</p>  
 
 
 <h1 align="center">1.3 Modelación numérica del flujo de la interacción entre el acuífero, el río y la planicie inundable</h1>
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/24f90712-7a99-409c-a8d1-40b6c3c03c7c" alt="Sublime's custom image"/>
+ 
+<img src="https://github.com/user-attachments/assets/ef42f854-d267-41be-ac3f-5fa265903462" alt="Sublime's custom image"/>
 </p>
-
 
 <h1 align="center">1.4 Práctico 1: Modelación numérica de la interacción entre el acuífero, el río y la planicie inundable bajo escenarios de explotación</h1>
 
