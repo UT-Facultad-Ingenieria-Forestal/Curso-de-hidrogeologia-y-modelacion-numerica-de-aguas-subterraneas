@@ -1,8 +1,9 @@
 # <h1 align="center"> CURSO: HIDROGEOLOGÍA Y MODELACIÓN NUMÉRICA DE AGUAS SUBTERRÁNEAS
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/1b0b8215-0c1e-45ac-b7fe-c9c98e4efd90" width="600">
-</p>
 
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/833c7222-cf2d-45de-8e90-2c246d014131"width="600">
+</p> 
 
 
 ## Tabla de Contenido
@@ -29,8 +30,8 @@
 
 <h1 id="1.1-Balance-hídrico-e-introducción-a-las-características-del-flujo-entre-las-aguas-subterráneas-y-superficiales-interacciones|acuífero|río|planicie|inundable" align="center">1.1 Balance hídrico e introducción a las características del flujo entre las aguas subterráneas y superficiales (interacciones-acuífero-río-planicie inundable)</h1>
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/833c7222-cf2d-45de-8e90-2c246d014131"/>
-</p> 
+  <img src="https://github.com/user-attachments/assets/1b0b8215-0c1e-45ac-b7fe-c9c98e4efd90" width="600">
+</p>
 
 
 <h1 id="1.2-Intercambio-hiporreico-y-métodos-de-cuantificación-de-las-interacciones-entre-el-acuífero-el-río-y-la-planicie-inundable" align="center">1.2 Intercambio hiporreico y métodos de cuantificación de las interacciones entre el acuífero, el río y la planicie inundable</h1>
