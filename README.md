@@ -9,7 +9,6 @@
 
  [1.1 Balance hídrico e introducción a las características del flujo entre las aguas subterráneas y superficiales (interacciones-acuífero-río-planicie inundable)](#1.1-Balance-hídrico-e-introducción-a-las-características-del-flujo-entre-las-aguas-subterráneas-y-superficiales-interacciones|acuífero|río|planicie|inundable)
 
-
   [1.2 Intercambio hiporreico y métodos de cuantificación de las interacciones entre el acuífero, el río y la planicie inundable](#12-Intercambio-hiporreico-y-métodos-de-cuantificación-de-las-interacciones-entre-el-acuífero,-el-río-y-la-planicie-inundable)
 
   [1.3 Modelación numérica del flujo de la interacción entre el acuífero, el río y la planicie inundable](#13-Modelación-numérica-del-flujo-de-la-interacción-entre-el-acuífero-el-río-y-la-planicie-inundable)
@@ -17,8 +16,7 @@
   [1.4 Práctico 1. Modelación numérica de la interacción entre el acuífero, el río y la planicie inundable bajo escenarios de explotación](#14-práctico-1-modelación-numérica-de-la-interacción-entre-el-acuífero,-el-río-y-la-planicie-inundable-bajo-escenarios-de-explotación)
 
   [1.5 Práctico 2. Modelación numérica de la interacción lago-acuífero](#15-práctico-2-modelación-numérica-de-la-interacción-lago-acuífero)
-
-  
+ 
 
 <h1 align="center">Unidad 1. Interacción entre las aguas superficiales y las aguas subterráneas y su impacto en las planicies de inundación</h1>
 <p align="center">
