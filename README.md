@@ -36,8 +36,7 @@
 
 
 <h1 align="center">1.3 Modelación numérica del flujo de la interacción entre el acuífero, el río y la planicie inundable</h1>
-<p align="center">
- 
+<p align="center"> 
 <img src="https://github.com/user-attachments/assets/ef42f854-d267-41be-ac3f-5fa265903462" alt="Sublime's custom image"/>
 </p>
 
