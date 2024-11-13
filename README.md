@@ -24,7 +24,7 @@
 
 <h1 align="center">Unidad 1. Interacción entre las aguas superficiales y las aguas subterráneas y su impacto en las planicies de inundación</h1>
 <p align="center">
-<img src="https://github.com/user-attachments/assets/a8ec44c6-84e3-4ae0-9703-983494c3ad62" alt="Sublime's custom image"width="700"
+<img src="https://github.com/user-attachments/assets/a8ec44c6-84e3-4ae0-9703-983494c3ad62" alt="Sublime's custom image"width="250"
 </p>
 
 <h1 id="1.1-Balance-hídrico-e-introducción-a-las-características-del-flujo-entre-las-aguas-subterráneas-y-superficiales-interacciones|acuífero|río|planicie|inundable" align="center">1.1 Balance hídrico e introducción a las características del flujo entre las aguas subterráneas y superficiales (interacciones-acuífero-río-planicie inundable)</h1>
@@ -35,7 +35,7 @@
 
 <h1 id="1.2-Intercambio-hiporreico-y-métodos-de-cuantificación-de-las-interacciones-entre-el-acuífero-el-río-y-la-planicie-inundable" align="center">1.2 Intercambio hiporreico y métodos de cuantificación de las interacciones entre el acuífero, el río y la planicie inundable</h1>
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/d83aea7e-c48b-43b9-b699-ecbc2f817018" width="700">
+  <img src="https://github.com/user-attachments/assets/d83aea7e-c48b-43b9-b699-ecbc2f817018" width="500">
 </p>
 
 
