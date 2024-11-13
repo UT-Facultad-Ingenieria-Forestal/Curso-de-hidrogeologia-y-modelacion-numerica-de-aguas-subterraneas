@@ -42,10 +42,7 @@
 
 
 <h1 align="center">1.3 Modelación numérica del flujo de la interacción entre el acuífero, el río y la planicie inundable</h1>
-<video width="320" height="240" controls>
-  <source src="https://www.aquaveo.com/images/hgs/hgs-intro.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+[Ver video de introducción de HGS](https://www.aquaveo.com/images/hgs/hgs-intro.mp4)
 
 
 <h1 id="1.4-Práctico-1-Modelación-numérica-de-la-interacción-entre-el-acuífero-el-río-y-la-planicie-inundable-bajo-escenarios-de-explotación" align="center">1.4 Práctico 1. Modelación numérica de la interacción entre el acuífero, el río y la planicie inundable bajo escenarios de explotación</h1>
