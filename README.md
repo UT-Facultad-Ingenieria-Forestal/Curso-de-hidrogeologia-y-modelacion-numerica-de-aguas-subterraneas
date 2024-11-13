@@ -1,5 +1,6 @@
 # <h1 align="center"> CURSO: HIDROGEOLOGÍA Y MODELACIÓN NUMÉRICA DE AGUAS SUBTERRÁNEAS
-![USGS_WaterCycle_Spanish_REDUCED](https://github.com/user-attachments/assets/1b0b8215-0c1e-45ac-b7fe-c9c98e4efd90)
+<img src="https://github.com/user-attachments/assets/1b0b8215-0c1e-45ac-b7fe-c9c98e4efd90" width="300">
+
 
 ## Tabla de Contenido
 
