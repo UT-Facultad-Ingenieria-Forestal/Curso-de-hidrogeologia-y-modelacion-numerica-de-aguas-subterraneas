@@ -23,6 +23,8 @@
 
   [1.6 Práctico 3.  Modelación numérica de la interacción entre el acuífero, el río y la planicie inundable mallado Voronoi implementando paquete River](#1.6-Práctico-3.-Modelación-numérica-de-la-interacción-entre-el-acuífero,-el-río-y-la-planicie-inundable-mallado-Voronoi-implementando-paquete-River)
 
+[1.7 Laboratorio Unidad 1.  Modelación numérica de la interacción entre el acuífero, el río y la planicie inundable usando visual MODFLOW y Qgis](#1.7-Laboratorio-Unidad-1.-Modelación-numérica-de-la-interacción-entre-el-acuífero,-el-río-y-la-planicie-inundable-usando-Visual-MODFLOW-y-QGIS)
+
 <h1 align="center">Unidad 1. Interacción entre las aguas superficiales y las aguas subterráneas y su impacto en las planicies de inundación</h1>
 <p align="center">
 <img src="https://github.com/user-attachments/assets/a8ec44c6-84e3-4ae0-9703-983494c3ad62" alt="Sublime's custom image"width="500"
@@ -94,3 +96,5 @@
     <a href="https://colab.research.google.com/drive/1eu3JjklfBjkz9MNRLT_GZs6sDgnaMrRu" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
   </td>
   <td>
+    
+<h1 id="1.7-Laboratorio-Unidad-1.-Modelación-numérica-de-la-interacción-entre-el-acuífero,-el-río-y-la-planicie-inundable-usando-Visual-MODFLOW-y-QGIS" align="center">1.7 Laboratorio Unidad 1.  Modelación numérica de la interacción entre el acuífero, el río y la planicie inundable usando visual MODFLOW y Qgis</h1>
