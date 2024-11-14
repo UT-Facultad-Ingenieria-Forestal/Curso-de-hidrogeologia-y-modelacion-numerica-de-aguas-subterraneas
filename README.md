@@ -19,7 +19,7 @@
 
  [1.4 Práctico 1. Modelación numérica de la interacción entre el acuífero, el río y la planicie inundable bajo escenarios de explotación](#1.4-Práctico-1.-Modelación-numérica-de-la-interacción-entre-el-acuífero-el-río-y-la-planicie-inundable-bajo-escenarios-de-explotación)
 
-  [1.5 Práctico 2. Modelación numérica de la interacción entre el acuífero, el río con el paquete Stream](#1.5-Práctico-2.-Modelación-numérica-de-la-interacción-entre-el-acuífero,-el-río-con-el-paquete-Stream)
+  [1.5 Práctico 2. Modelación numérica de la interacción entre el acuífero y el río con el paquete Stream](#1.5-Práctico-2.-Modelación-numérica-de-la-interacción-entre-el-acuífero-y-el-río-con-el-paquete-Stream)
 
   [1.6 Práctico 3.  Modelación numérica de la interacción entre el acuífero, el río y la planicie inundable mallado Voronoi implementando paquete River](#1.6-Práctico-3.-Modelación-numérica-de-la-interacción-entre-el-acuífero,-el-río-y-la-planicie-inundable-mallado-Voronoi-implementando-paquete-River)
 
@@ -73,7 +73,7 @@
   <img src="https://cdn-icons-png.flaticon.com/512/5968/5968528.png" width="50" height="50" alt="Google Forms">
 </a>
 
-<h1 id="1.5-Práctico-2.-Modelación-numérica-de-la-interacción-entre-el-acuífero,-el-río-con-el-paquete-Stream" align="center">1.5 Práctico 2. Modelación numérica de la interacción entre el acuífero, el río con el paquete Stream</h1>
+<h1 id="1.5-Práctico-2.-Modelación-numérica-de-la-interacción-entre-el-acuífero-y-el-río-con-el-paquete-Stream" align="center">1.5 Práctico 2. Modelación numérica de la interacción entre el acuífero y el río con el paquete Stream</h1>
 
 ### Haga clic en el icono de Google Colab para ejecutar el código por celdas
   <td>
