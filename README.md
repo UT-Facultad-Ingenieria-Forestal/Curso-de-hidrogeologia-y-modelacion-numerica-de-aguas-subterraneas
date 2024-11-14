@@ -75,10 +75,10 @@
 
 ### Haga clic en el icono de Google Colab para ejecutar el código por celdas
   <td>
-    <a href="https://colab.research.google.com/drive/1OaTsTvTREaxyC3WcC_1tDsVIu3_UiihK#scrollTo=dc06dec7" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+    <a href="https://colab.research.google.com/drive/1szwdrNZdZN0Vr6YZ_KTkPwO4kVrUe4ro" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
   </td>
   <td>
-
+https://drive.google.com/file/d/1szwdrNZdZN0Vr6YZ_KTkPwO4kVrUe4ro/view?usp=drive_link
 ## Coevaluacion práctico 2
 #### Evalúa el desempeño de tu compañero en el proyecto de grupo,  considerando los objetivos establecidos en el presente curso. Usa una escala del 1 al 5, donde 1 es "muy insuficiente" y 5 es "excelente" Considere su contribución al trabajo práctico 2 y su capacidad para trabajar en equipo.
 
