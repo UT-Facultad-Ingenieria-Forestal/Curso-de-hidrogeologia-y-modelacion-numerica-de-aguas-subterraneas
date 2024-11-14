@@ -61,11 +61,17 @@
 
 ## Heteroevaluación práctico 1
 
-**Objetivo:** Evaluar la capacidad del estudiante para aplicar conocimientos teóricos a casos prácticos reales.
+**Objetivo:** Evaluar  las habilidades del estudiante en la aplicación de modelos numéricos en hidrogeología, así como su capacidad para proponer soluciones innovadoras y sostenibles.
 
-**Método:** Examen de seleccion multiple a traves de Google Forms, enfocado en evaluar los conocimientos adquiridos sobre las interacciones entre las aguas subterráneas y superficiales en sistemas río-acuífero.
+**Método:** Examen de seleccion multiple a traves de Google Forms, enfocado en evaluar los conocimientos adquiridos sobre las interacciones entre las aguas subterráneas y superficiales en sistemas acuífero-río-Planicie inundable bajo escenarios de explotación.
 
-**Criterios de evaluación:** Comprensión de los procesos hidrológicos, capacidad para identificar impactos humanos en estos sistemas, y habilidades para proponer soluciones sostenibles.
+**Criterios de evaluación:**
+
+-Comprensión Teórica: Comprensión de los procesos hidrológicos, capacidad para identificar impactos humanos en sistemas acuífero-río-Planicie inundable.
+
+-Uso de FloPy y MODFLOW: Habilidad para configurar y ejecutar modelos numericos de agua subterránea.
+
+-Análisis y Soluciones: Capacidad para interpretar resultados y proponer soluciones sostenibles.
 
 ### Haga clic en el ícono de Google Forms para presentar su evaluación individual del Práctico 1
 
@@ -91,7 +97,7 @@
 **Criterios de evaluación:** Claridad en la presentación, profundidad del análisis, y calidad de las respuestas durante la sesión de preguntas.
 
 <h1 id="1.6-Práctico-3.-Modelación-numérica-de-la-interacción-entre-el-acuífero,-el-río-y-la-planicie-inundable-mallado-Voronoi-implementando-paquete-River" align="center">1.6 Práctico 3.  Modelación numérica de la interacción entre el acuífero, el río y la planicie inundable mallado Voronoi implementando paquete River</h1>
-
+### Haga clic en el icono de Google Colab para ejecutar el código por celdas
  <td>
     <a href="https://colab.research.google.com/drive/1eu3JjklfBjkz9MNRLT_GZs6sDgnaMrRu" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
   </td>
