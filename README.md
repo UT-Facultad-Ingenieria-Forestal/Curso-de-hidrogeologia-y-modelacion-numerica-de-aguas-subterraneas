@@ -48,7 +48,7 @@
 (https://www.aquaveo.com/images/hgs/hgs-intro.mp4) 
 </p>
 
-<h1 id="1.4-Práctico-1-Modelación-numérica-de-la-interacción-entre-el-acuífero-el-río-y-la-planicie-inundable-bajo-escenarios-de-explotación" align="center">1.4 Práctico 1. Modelación numérica de la interacción entre el acuífero, el río y la planicie inundable bajo escenarios de explotación</h1>
+<h1 id="1.4-Práctico-1.-Modelación-numérica-de-la-interacción-entre-el-acuífero-el-río-y-la-planicie-inundable-bajo-escenarios-de-explotación" align="center">1.4 Práctico 1. Modelación numérica de la interacción entre el acuífero, el río y la planicie inundable bajo escenarios de explotación</h1>
 
 ### Haga clic en el icono de Google Colab para ejecutar el código por celdas
 
