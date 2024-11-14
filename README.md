@@ -82,6 +82,7 @@
 <h1 id="1.5-Práctico-2.-Modelación-numérica-de-la-interacción-entre-el-acuífero-y-el-río-con-el-paquete-Stream" align="center">1.5 Práctico 2. Modelación numérica de la interacción entre el acuífero y el río con el paquete Stream</h1>
 
 ### Haga clic en el icono de Google Colab para ejecutar el código por celdas
+
   <td>
     <a href="https://colab.research.google.com/drive/1szwdrNZdZN0Vr6YZ_KTkPwO4kVrUe4ro" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
   </td>
