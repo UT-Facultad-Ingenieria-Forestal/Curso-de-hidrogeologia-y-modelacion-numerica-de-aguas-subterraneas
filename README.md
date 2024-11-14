@@ -102,7 +102,7 @@
 ## Práctico de Laboratorio Unidad 1
 #### Objetivos
 **Objetivo General:** Entender las dinámicas de interacción entre el acuífero, el río y la planicie inundable bajo diferentes condiciones hidrológicas.
-**Objetivos Específicos**
+**Objetivos Específicos:**
 
 -Analizar cómo las variaciones en el nivel del agua subterránea afectan al río y la planicie inundable.
 
