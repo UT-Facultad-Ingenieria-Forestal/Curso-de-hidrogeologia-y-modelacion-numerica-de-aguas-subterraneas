@@ -103,8 +103,10 @@
 #### Objetivos
 **Objetivo General:** Entender las dinámicas de interacción entre el acuífero, el río y la planicie inundable bajo diferentes condiciones hidrológicas.
 **Objetivos Específicos**
-Analizar cómo las variaciones en el nivel del agua subterránea afectan al río y la planicie inundable.
-Estudiar el impacto de la descarga del acuífero en el caudal del río y cómo el río a su vez afecta el acuífero.
+
+-Analizar cómo las variaciones en el nivel del agua subterránea afectan al río y la planicie inundable.
+
+-Estudiar el impacto de la descarga del acuífero en el caudal del río y cómo el río a su vez afecta el acuífero.
 
 #### Metodología
 **1. Preparación:**
@@ -120,9 +122,9 @@ Seleccionar una zona de estudio representativa con datos disponibles
 
 **3. Simulación y Escenarios:**
 
-Realizar una simulación base para entender el comportamiento bajo condiciones normales.
+-Realizar una simulación base para entender el comportamiento bajo condiciones normales.
 
-Modificar las condiciones para simular diferentes escenarios, como períodos secos y húmedos, así como condiciones de extracción de aguas subterráneas, para ver cómo estos afectan las interacciones entre el acuífero, el río y la planicie inundable.
+-Modificar las condiciones para simular diferentes escenarios, como períodos secos y húmedos, así como condiciones de extracción de aguas subterráneas, para ver cómo estos afectan las interacciones entre el acuífero, el río y la planicie inundable.
 
 **4. Análisis de Datos:**
 
