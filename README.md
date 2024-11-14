@@ -98,3 +98,42 @@
   <td>
     
 <h1 id="1.7-Laboratorio-Unidad-1.-Modelación-numérica-de-la-interacción-entre-el-acuífero,-el-río-y-la-planicie-inundable-usando-Visual-MODFLOW-y-QGIS" align="center">1.7 Laboratorio Unidad 1.  Modelación numérica de la interacción entre el acuífero, el río y la planicie inundable usando visual MODFLOW y Qgis</h1>
+
+## Práctico de Laboratorio Unidad 1
+###Objetivos
+**Objetivo General:** Entender las dinámicas de interacción entre el acuífero, el río y la planicie inundable bajo diferentes condiciones hidrológicas.
+**Objetivos Específicos**
+Analizar cómo las variaciones en el nivel del agua subterránea afectan al río y la planicie inundable.
+Estudiar el impacto de la descarga del acuífero en el caudal del río y cómo el río a su vez afecta el acuífero.
+
+###Metodología
+**1. Preparación:**
+Seleccionar una zona de estudio representativa con datos disponibles
+**2. Configuración del Modelo en Visual MODFLOW:**
+Diseño del Modelo: Crear una malla que cubra el área de interés, ajustando la resolución para capturar detalles importantes de las interacciones entre el acuífero, el río y la planicie inundable.
+Parámetros Hidráulicos: Definir la conductividad hidráulica, coeficiente de almacenamiento, y condiciones de recarga al modelo numerico
+Condiciones de Contorno: Establecer condiciones contorno al modelo numerico que representen interacciones entre entre el acuífero, el río y la planicie inundable.
+**3. Simulación y Escenarios:**
+Realizar una simulación base para entender el comportamiento bajo condiciones normales.
+Modificar las condiciones para simular diferentes escenarios, como períodos secos y húmedos, así como condiciones de extracción de aguas subterráneas, para ver cómo estos afectan las interacciones entre el acuífero, el río y la planicie inundable.
+**4. Análisis de Datos:**
+Utilizar las herramientas de Visual MODFLOW para analizar los resultados de las simulaciones, prestando especial atención a los cambios en los niveles de agua y los flujos entre el acuífero y el río.
+Preparar visualizaciones, como mapas de contornos de niveles de agua y gráficos temporales de variación de volumen de agua en el acuífero y en los caudales del río.
+
+###Actividades Prácticas
+**Visualización de Resultados:** Los estudiantes deben generar y analizar mapas de niveles freáticos y caudales para cada escenario.
+**Discusión Grupal:** Fomentar la discusión sobre cómo los resultados pueden aplicarse para la gestión de recursos hídricos en escenarios reales.
+**Informe de Laboratorio:** Cada estudiante o grupo presentará un informe que documente su metodología, análisis y conclusiones.
+
+###Evaluación:
+**Presentaciones:** Los estudiantes presentarán sus hallazgos ante la clase y seran evaluados coevaluados por sus compañeros.
+**Informe Final:** Evaluación basada en la profundidad del análisis y la calidad del informe escrito.
+
+
+
+
+
+
+
+
+
