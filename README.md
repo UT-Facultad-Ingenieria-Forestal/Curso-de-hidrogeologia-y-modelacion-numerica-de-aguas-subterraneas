@@ -17,10 +17,11 @@
 
   [1.3 Modelación numérica del flujo de la interacción entre el acuífero, el río y la planicie inundable](#13-Modelación-numérica-del-flujo-de-la-interacción-entre-el-acuífero-el-río-y-la-planicie-inundable)
 
- [1.4 Práctico 1. Modelación numérica de la interacción entre el acuífero, el río y la planicie inundable bajo escenarios de explotación](#1.4-Práctico-1-Modelación-numérica-de-la-interacción-entre-el-acuífero-el-río-y-la-planicie-inundable-bajo-escenarios-de-explotación)
+ [1.4 Práctico 1. Modelación numérica de la interacción entre el acuífero, el río y la planicie inundable bajo escenarios de explotación](#1.4-Práctico-1.-Modelación-numérica-de-la-interacción-entre-el-acuífero-el-río-y-la-planicie-inundable-bajo-escenarios-de-explotación)
 
-  [1.5 Práctico 2. Modelación numérica de la interacción lago-acuífero](#15-práctico-2-modelación-numérica-de-la-interacción-lago-acuífero)
- 
+  [1.5 Práctico 2. Modelación numérica de la interacción entre el acuífero, el río con el paquete Stream](#1.5-Práctico-2.-Modelación-numérica-de-la-interacción-entre-el-acuífero,-el-río-con-el-paquete-Stream.)
+
+  [1.6 Práctico 3.  Modelación numérica de la interacción entre el acuífero, el río y la planicie inundable mallado Voronoi implementando paquete River](#15-Práctico-3.-Modelación-numérica-de-la-interacción-entre-el-acuífero,-el-río-y-la-planicie-inundable-mallado-Voronoi-implementando-paquete-River)
 
 <h1 align="center">Unidad 1. Interacción entre las aguas superficiales y las aguas subterráneas y su impacto en las planicies de inundación</h1>
 <p align="center">
