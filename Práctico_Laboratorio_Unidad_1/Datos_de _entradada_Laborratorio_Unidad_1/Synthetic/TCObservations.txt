@@ -1,0 +1,1 @@
+WellName ~ WellType ~ ObsPoint ~ Species ~ ObsTime ~ ObsValue ~ Confidence ~ InterpValue

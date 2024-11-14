@@ -1,0 +1,1 @@
+WellName~ WellType~ ScreenID~ ZTop~ ZBottom~ Rwell

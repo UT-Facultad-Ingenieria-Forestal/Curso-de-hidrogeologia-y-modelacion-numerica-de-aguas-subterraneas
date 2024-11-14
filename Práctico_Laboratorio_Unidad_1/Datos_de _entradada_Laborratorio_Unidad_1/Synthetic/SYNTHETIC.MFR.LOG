@@ -1,0 +1,8 @@
+F2F: 20/01/2008. Host:build4-wat.  MFReader.DLL
+
+**** Start MFReader for project C:\CURSOIGME\EXAMPLE SWAT-MODFLOW\MODFLOW\Synthetic\Synthetic of type BAS6
+Error  29 in Open_File: Cannot open NameFile C:\CURSOIGME\EXAMPLE SWAT-MODFLOW\MODFLOW\SYNTHETIC\SYNTHETIC    Try to use suffix .NAM ...
+Error  29 in Open_File: Cannot open NameFile C:\CURSOIGME\EXAMPLE SWAT-MODFLOW\MODFLOW\SYNTHETIC\SYNTHETIC.NAM    Try to use suffix .modflow.in ...
+NameFile C:\CURSOIGME\EXAMPLE SWAT-MODFLOW\MODFLOW\SYNTHETIC\SYNTHETIC.MODFLOW.IN opened successfully.
+ Unit    6: opening as REPLACE FORMATTED readwrite file C:\CURSOIGME\EXAMPLE SWAT-MODFLOW\MODFLOW\Synthetic\Synthetic.LST
+ File C:\CURSOIGME\EXAMPLE SWAT-MODFLOW\MODFLOW\SYNTHETIC\SYNTHETIC.LST opened successfully

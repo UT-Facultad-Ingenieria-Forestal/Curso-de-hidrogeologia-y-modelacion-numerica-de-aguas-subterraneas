@@ -1,0 +1,1 @@
+WellName~ WellType~ StartTime~ StopTime~ Rate~ Rskin~ Tskin~ Bcoef~ Ccoef~ WaterQuality~ WaterLevel~ ReferenceElevation~ PumpingMin~ PumpingMax~ PumpingLimit~ WaterLimit~ QualityGroup
