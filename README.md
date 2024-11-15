@@ -104,7 +104,7 @@ Instrucciones: Evalúa a cada grupo y usa la siguiente escala para cada pregunta
 3: Cumple completamente con las expectativas
 4: Supera las expectativas
 
-### Haga clic en el ícono de Google Forms para presentar su evaluación individual del Práctico 1
+### Haga clic en el ícono de Google Forms para presentar su coevaluación del Práctico 2
 
 <h1 id="1.6-Práctico-3.-Modelación-numérica-de-la-interacción-entre-el-acuífero,-el-río-y-la-planicie-inundable-mallado-Voronoi-implementando-paquete-River" align="center">1.6 Práctico 3.  Modelación numérica de la interacción entre el acuífero, el río y la planicie inundable mallado Voronoi implementando paquete River</h1>
 
