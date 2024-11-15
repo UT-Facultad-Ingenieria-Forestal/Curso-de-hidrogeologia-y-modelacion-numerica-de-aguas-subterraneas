@@ -97,6 +97,15 @@
 
 **Criterios de evaluación:** Claridad en la presentación, profundidad del análisis, y calidad de las respuestas durante la sesión de preguntas.
 
+Instrucciones: Evalúa a cada grupo y usa la siguiente escala para cada pregunta:
+
+1: No cumple con las expectativas
+2: Cumple parcialmente con las expectativas
+3: Cumple completamente con las expectativas
+4: Supera las expectativas
+
+### Haga clic en el ícono de Google Forms para presentar su evaluación individual del Práctico 1
+
 <h1 id="1.6-Práctico-3.-Modelación-numérica-de-la-interacción-entre-el-acuífero,-el-río-y-la-planicie-inundable-mallado-Voronoi-implementando-paquete-River" align="center">1.6 Práctico 3.  Modelación numérica de la interacción entre el acuífero, el río y la planicie inundable mallado Voronoi implementando paquete River</h1>
 
 ### Haga clic en el icono de Google Colab para ejecutar el código por celdas
