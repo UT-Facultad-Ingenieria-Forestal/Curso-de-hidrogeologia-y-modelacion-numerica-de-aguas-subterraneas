@@ -166,6 +166,11 @@ Seleccionar una zona de estudio representativa con datos disponibles
 **Presentaciones:** Los estudiantes presentarán sus hallazgos ante la clase y seran evaluados coevaluados por sus compañeros.
 **Informe Final:** Evaluación basada en la profundidad del análisis y la calidad del informe escrito.
 
+### Haga clic en el ícono de Google Forms para presentar su autoevaluación de los ejercios practicos en el entorno AVA y laboratorio de la Unidad 1
+
+<a href="https://docs.google.com/forms/d/e/1FAIpQLSeYH4WXwuN-AmEqLrIXR6m8eO7TI_sdN29KS4BfO7VHZAbO5w/viewform?usp=sf_link">
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968528.png" width="50" height="50" alt="Google Forms">
+</a>
 
 
 
