@@ -99,10 +99,13 @@
 
 Instrucciones: Evalúa a cada grupo y usa la siguiente escala para cada pregunta:
 
-1: No cumple con las expectativas
-2: Cumple parcialmente con las expectativas
-3: Cumple completamente con las expectativas
-4: Supera las expectativas
+-1: No cumple con las expectativas del práctico.
+
+-2: Cumple parcialmente con las expectativas del práctico.
+
+-3: Cumple completamente con las expectativas del práctico.
+
+-4: Supera las expectativas del práctico.
 
 ### Haga clic en el ícono de Google Forms para presentar su coevaluación del Práctico 2
 
