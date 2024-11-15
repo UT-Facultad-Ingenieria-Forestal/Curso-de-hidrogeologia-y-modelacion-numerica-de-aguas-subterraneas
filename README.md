@@ -37,11 +37,9 @@
 
 ### Haga clic en el ícono de Powerpoint para ver la presentación
 
-[PRESENTACIÓN 1](https://docs.google.com/presentation/d/1pv0okOQ6x4add6Py575Qf11xNfbzCFhc/edit?usp=drive_link&ouid=108382194107643842204&rtpof=true&sd=true)
- <a href="https://upload.wikimedia.org/wikipedia/commons/1/16/Microsoft_PowerPoint_2013-2019_logo.svg">
-<img src="" alt="Sublime's custom image"width="100"
-<p align="center">
-  </p>
+(https://docs.google.com/presentation/d/1pv0okOQ6x4add6Py575Qf11xNfbzCFhc/edit?usp=drive_link&ouid=108382194107643842204&rtpof=true&sd=true)
+<img src="https://logowik.com/content/uploads/images/567_powerpoint2013.jpg" width="50" height="50">
+</a>
 
 <h1 id="1.2-Intercambio-hiporreico-y-métodos-de-cuantificación-de-las-interacciones-entre-el-acuífero-el-río-y-la-planicie-inundable" align="center">1.2 Intercambio hiporreico y métodos de cuantificación de las interacciones entre el acuífero, el río y la planicie inundable</h1>
 <p align="center">
