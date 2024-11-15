@@ -37,9 +37,9 @@
 
 ### Haga clic en el ícono de Powerpoint para ver la presentación
 
-[Presentación parte 1](https://docs.google.com/presentation/d/1pv0okOQ6x4add6Py575Qf11xNfbzCFhc/edit?usp=drive_link&ouid=108382194107643842204&rtpof=true&sd=true)
- <a href="https://docs.google.com/presentation/d/1pv0okOQ6x4add6Py575Qf11xNfbzCFhc/edit?usp=drive_link&ouid=108382194107643842204&rtpof=true&sd=true">
-<img src="https://1000marcas.net/wp-content/uploads/2021/02/Microsoft-PowerPoint-Logo.png" alt="Sublime's custom image"width="100"
+[PRESENTACIÓN 1](https://docs.google.com/presentation/d/1pv0okOQ6x4add6Py575Qf11xNfbzCFhc/edit?usp=drive_link&ouid=108382194107643842204&rtpof=true&sd=true)
+ <a href="https://upload.wikimedia.org/wikipedia/commons/1/16/Microsoft_PowerPoint_2013-2019_logo.svg">
+<img src="" alt="Sublime's custom image"width="100"
 <p align="center">
   </p>
 
