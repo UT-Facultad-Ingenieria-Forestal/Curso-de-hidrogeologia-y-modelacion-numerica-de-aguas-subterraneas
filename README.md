@@ -158,8 +158,11 @@ Seleccionar una zona de estudio representativa con datos disponibles
 -Preparar visualizaciones, como mapas de contornos de niveles de agua y gráficos temporales de variación de volumen de agua en el acuífero y en los caudales del río.
 
 #### Actividades Prácticas
+
 **Visualización de Resultados:** Los estudiantes deben generar y analizar mapas de niveles freáticos y caudales para cada escenario.
+
 **Discusión Grupal:** Fomentar la discusión sobre cómo los resultados pueden aplicarse para la gestión de recursos hídricos en escenarios reales.
+
 **Informe de Laboratorio:** Cada estudiante o grupo presentará un informe que documente su metodología, análisis y conclusiones.
 
 #### Evaluación:
