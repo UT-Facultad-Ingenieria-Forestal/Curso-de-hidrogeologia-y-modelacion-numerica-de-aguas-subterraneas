@@ -39,7 +39,7 @@
 
 [Presentación parte 1](https://docs.google.com/presentation/d/1pv0okOQ6x4add6Py575Qf11xNfbzCFhc/edit?usp=drive_link&ouid=108382194107643842204&rtpof=true&sd=true)
  <a href="https://docs.google.com/presentation/d/1pv0okOQ6x4add6Py575Qf11xNfbzCFhc/edit?usp=drive_link&ouid=108382194107643842204&rtpof=true&sd=true">
-  <img src="https://www.bitwarsoft.com/wp-content/uploads/2020/09/PPT-768x432.jpg "width="100"">
+  <img src="https://cdn.pixabay.com/photo/2021/12/13/06/33/powerpoint-6867647_1280.png">
 </a>
 
 <h1 id="1.2-Intercambio-hiporreico-y-métodos-de-cuantificación-de-las-interacciones-entre-el-acuífero-el-río-y-la-planicie-inundable" align="center">1.2 Intercambio hiporreico y métodos de cuantificación de las interacciones entre el acuífero, el río y la planicie inundable</h1>
