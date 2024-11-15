@@ -98,7 +98,9 @@
 **Criterios de evaluación:** Claridad en la presentación, profundidad del análisis, y calidad de las respuestas durante la sesión de preguntas.
 
 <h1 id="1.6-Práctico-3.-Modelación-numérica-de-la-interacción-entre-el-acuífero,-el-río-y-la-planicie-inundable-mallado-Voronoi-implementando-paquete-River" align="center">1.6 Práctico 3.  Modelación numérica de la interacción entre el acuífero, el río y la planicie inundable mallado Voronoi implementando paquete River</h1>
+
 ### Haga clic en el icono de Google Colab para ejecutar el código por celdas
+
  <td>
     <a href="https://colab.research.google.com/drive/1eu3JjklfBjkz9MNRLT_GZs6sDgnaMrRu" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
   </td>
