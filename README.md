@@ -61,7 +61,7 @@
 
 ## Heteroevaluación práctico 1
 
-**Objetivo:** Evaluar  las habilidades del estudiante en la aplicación de modelos numéricos en hidrogeología, así como su capacidad para proponer soluciones innovadoras y sostenibles.
+**Objetivo:** Evaluar las habilidades del estudiante en la aplicación de modelos numéricos en hidrogeología, así como su capacidad para proponer soluciones innovadoras y sostenibles.
 
 **Método:** Examen de seleccion multiple a traves de Google Forms, enfocado en evaluar los conocimientos adquiridos sobre las interacciones entre las aguas subterráneas y superficiales en sistemas acuífero-río-Planicie inundable bajo escenarios de explotación.
 
@@ -89,7 +89,7 @@
   <td>
 
 ## Coevaluacion práctico 2
-#### Evalúa el desempeño de tu compañero en el proyecto de grupo,  considerando los objetivos establecidos en el presente curso. Usa una escala del 1 al 5, donde 1 es "muy insuficiente" y 5 es "excelente" Considere su contribución al trabajo práctico 2 y su capacidad para trabajar en equipo.
+#### Evalúa el desempeño de tu compañero en el proyecto de grupo,  considerando los objetivos establecidos en el presente curso. 
 
 **Objetivo:** Fomentar la evaluación crítica entre compañeros para mejorar la comprensión colectiva.
 
