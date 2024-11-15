@@ -36,7 +36,7 @@
 </p>
 
 ### Haga clic en el ícono de Powerpoint para ver la presentación "Balance hídrico e introducción a las características del flujo entre las aguas subterráneas y superficiales (interacciones-acuífero-río-planicie inundable)"
-
+<p align="center">
   <a href="https://docs.google.com/presentation/d/1pv0okOQ6x4add6Py575Qf11xNfbzCFhc/edit?usp=drive_link&ouid=108382194107643842204&rtpof=true&sd=true">
   <img src="https://camo.githubusercontent.com/dcc5351c70c3503723c8e9b66f2da43e8c5b426b923459de9e9e62e914ef154e/68747470733a2f2f6c6f676f77696b2e636f6d2f636f6e74656e742f75706c6f6164732f696d616765732f3536375f706f776572706f696e74323031332e6a7067" width="50" height="50" alt="Google Forms">
 </a>
@@ -46,7 +46,8 @@
   <img src="https://github.com/user-attachments/assets/d83aea7e-c48b-43b9-b699-ecbc2f817018" width="600">
 </p>
 
-### Haga clic en el ícono de Powerpoint para ver la presentación
+### Haga clic en el ícono de Powerpoint para ver la presentación "Intercambio hiporreico y métodos de cuantificación de las interacciones acuífero-río-planicie inundable"
+
 
   <a href="https://docs.google.com/presentation/d/1XbOgdBl1-xNjZBOfHjapQkYxGactWHKH/edit?usp=drive_link&ouid=108382194107643842204&rtpof=true&sd=true">
   <img src="https://camo.githubusercontent.com/dcc5351c70c3503723c8e9b66f2da43e8c5b426b923459de9e9e62e914ef154e/68747470733a2f2f6c6f676f77696b2e636f6d2f636f6e74656e742f75706c6f6164732f696d616765732f3536375f706f776572706f696e74323031332e6a7067" width="50" height="50" alt="Google Forms">
