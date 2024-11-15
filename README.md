@@ -37,6 +37,8 @@
 
 ### Haga clic en el ícono de Powerpoint para ver la presentación
 
+[Presentación parte 1](https://docs.google.com/presentation/d/1pv0okOQ6x4add6Py575Qf11xNfbzCFhc/edit?usp=drive_link&ouid=108382194107643842204&rtpof=true&sd=true)
+
 <a href="https://docs.google.com/presentation/d/1pv0okOQ6x4add6Py575Qf11xNfbzCFhc/edit?usp=drive_link&ouid=108382194107643842204&rtpof=true&sd=true">
   <img src="https://cdn-icons-png.flaticon.com/512/5968/5968528.png" width="50" height="50" alt="Google Forms">
 </a>
