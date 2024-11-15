@@ -38,7 +38,7 @@
 ### Haga clic en el ícono de Powerpoint para ver la presentación
 
 [Presentación parte 1](https://docs.google.com/presentation/d/1pv0okOQ6x4add6Py575Qf11xNfbzCFhc/edit?usp=drive_link&ouid=108382194107643842204&rtpof=true&sd=true)
-
+ <a href="https://docs.google.com/presentation/d/1pv0okOQ6x4add6Py575Qf11xNfbzCFhc/edit?usp=drive_link&ouid=108382194107643842204&rtpof=true&sd=true">
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/16/Microsoft_PowerPoint_2013-2019_logo.svg"width="100"">
 </a>
 
