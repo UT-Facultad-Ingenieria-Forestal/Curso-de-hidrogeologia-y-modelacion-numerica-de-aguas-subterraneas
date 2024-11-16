@@ -158,7 +158,7 @@ Instrucciones: Evalúa a cada grupo y usa la siguiente escala para cada pregunta
 
 -4: Supera las expectativas del práctico.
 
-### Haga clic en el ícono de Google Forms para presentar su coevaluación del Práctico 2
+### Haga clic en el ícono de Google Forms para presentar su coevaluación de los Práctico 2 y 3
 
 <a href="https://docs.google.com/forms/d/e/1FAIpQLSeYH4WXwuN-AmEqLrIXR6m8eO7TI_sdN29KS4BfO7VHZAbO5w/viewform?usp=sf_link">
   <img src="https://cdn-icons-png.flaticon.com/512/5968/5968528.png" width="50" height="50" alt="Google Forms">
