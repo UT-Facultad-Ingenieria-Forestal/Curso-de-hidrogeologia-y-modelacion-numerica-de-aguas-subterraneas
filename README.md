@@ -46,7 +46,10 @@
 
 Haz clic en el ícono de YouTube para ver un video relacionados con la introducción a las características del flujo entre las aguas subterráneas y superficiales (interacciones-acuífero-río-planicie inundable)
 
-[![YouTube](https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png)](https://www.youtube.com/watch?v=QEZKxXFp2Uc![image](https://github.com/user-attachments/assets/6e58f2ae-3bd8-4e54-89a0-684af1a27ec9)
+<a href="www.youtube.com/watch?v=QEZKxXFp2Uc" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png" alt="YouTube" width="100" />
+</a>
+
 
 
 
