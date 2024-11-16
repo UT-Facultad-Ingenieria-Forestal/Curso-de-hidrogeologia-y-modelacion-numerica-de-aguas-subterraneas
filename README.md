@@ -43,6 +43,13 @@
   <img src="https://camo.githubusercontent.com/dcc5351c70c3503723c8e9b66f2da43e8c5b426b923459de9e9e62e914ef154e/68747470733a2f2f6c6f676f77696b2e636f6d2f636f6e74656e742f75706c6f6164732f696d616765732f3536375f706f776572706f696e74323031332e6a7067" width="50" height="50" alt="Google Forms">
 </a>
 
+
+Haz clic en el ícono de YouTube para ver un video relacionados con la introducción a las características del flujo entre las aguas subterráneas y superficiales (interacciones-acuífero-río-planicie inundable)
+
+[![YouTube](https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png)](https://www.youtube.com/watch?v=QEZKxXFp2Uc![image](https://github.com/user-attachments/assets/6e58f2ae-3bd8-4e54-89a0-684af1a27ec9)
+
+
+
 <h1 id="1.2-Intercambio-hiporreico-y-métodos-de-cuantificación-de-las-interacciones-entre-el-acuífero-el-río-y-la-planicie-inundable" align="center">1.2 Intercambio hiporreico y métodos de cuantificación de las interacciones entre el acuífero, el río y la planicie inundable</h1>
 <p align="center">
   <img src="https://github.com/user-attachments/assets/d83aea7e-c48b-43b9-b699-ecbc2f817018" width="600">
