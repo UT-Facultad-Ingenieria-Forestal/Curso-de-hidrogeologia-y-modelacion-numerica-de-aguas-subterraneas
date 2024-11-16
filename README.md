@@ -62,7 +62,12 @@ Aplicación de aprendizaje sobre aguas subterráneas con un laboratorio con el q
 
 <img src="https://github.com/user-attachments/assets/fe81d94a-0f8b-4a63-9e38-c6357931c6c1" width="800" />  
 
-<img src="https://github.com/user-attachments/assets/fe9c49e8-1c8e-4d25-a90f-30af3c67ddbd" width="800" />
+<img src="https://github.com/user-attachments/assets/7045111c-0b80-446a-8c54-9eb87cf690fa" width="600" />
+
+Desarrollador: Koboldgames
+Patrocinador: EAWAG
+Fecha de lanzamiento: 21/10/2015
+
 
 
 <h1 id="1.2-Intercambio-hiporreico-y-métodos-de-cuantificación-de-las-interacciones-entre-el-acuífero-el-río-y-la-planicie-inundable" align="center">1.2 Intercambio hiporreico y métodos de cuantificación de las interacciones entre el acuífero, el río y la planicie inundable</h1>
