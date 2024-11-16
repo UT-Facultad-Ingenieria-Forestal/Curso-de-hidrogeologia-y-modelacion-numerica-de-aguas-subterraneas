@@ -139,8 +139,8 @@ Fecha de lanzamiento: 21/10/2015
   </td>
   <td>
 
-## Coevaluacion prácticos 2 y3
-#### Evalúa el desempeño de tu compañero en el proyecto de grupo,  considerando los objetivos establecidos en el presente curso. 
+## Coevaluacion prácticos 2 y 3
+#### Evalúa el desempeño de tus compañeros en el proyecto de grupo,  considerando los objetivos establecidos en el presente curso. 
 
 **Objetivo:** Fomentar la evaluación crítica entre compañeros para mejorar la comprensión colectiva.
 
