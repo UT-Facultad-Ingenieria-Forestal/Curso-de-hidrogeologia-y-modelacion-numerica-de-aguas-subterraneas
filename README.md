@@ -130,7 +130,16 @@ Fecha de lanzamiento: 21/10/2015
   </td>
   <td>
 
-## Coevaluacion práctico 2
+<h1 id="1.6-Práctico-3.-Modelación-numérica-de-la-interacción-entre-el-acuífero,-el-río-y-la-planicie-inundable-mallado-Voronoi-implementando-paquete-River" align="center">1.6 Práctico 3.  Modelación numérica de la interacción entre el acuífero, el río y la planicie inundable mallado Voronoi implementando paquete River</h1>
+
+### Haga clic en el ícono de Google Colab para ejecutar el código por celdas. En este entorno, encontrará comentarios descriptivos en cada celda explicando la función del código.
+
+ <td>
+    <a href="https://colab.research.google.com/drive/1eu3JjklfBjkz9MNRLT_GZs6sDgnaMrRu" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+  </td>
+  <td>
+
+## Coevaluacion prácticos 2 y3
 #### Evalúa el desempeño de tu compañero en el proyecto de grupo,  considerando los objetivos establecidos en el presente curso. 
 
 **Objetivo:** Fomentar la evaluación crítica entre compañeros para mejorar la comprensión colectiva.
@@ -154,15 +163,6 @@ Instrucciones: Evalúa a cada grupo y usa la siguiente escala para cada pregunta
 <a href="https://docs.google.com/forms/d/e/1FAIpQLSeYH4WXwuN-AmEqLrIXR6m8eO7TI_sdN29KS4BfO7VHZAbO5w/viewform?usp=sf_link">
   <img src="https://cdn-icons-png.flaticon.com/512/5968/5968528.png" width="50" height="50" alt="Google Forms">
 </a>
-
-<h1 id="1.6-Práctico-3.-Modelación-numérica-de-la-interacción-entre-el-acuífero,-el-río-y-la-planicie-inundable-mallado-Voronoi-implementando-paquete-River" align="center">1.6 Práctico 3.  Modelación numérica de la interacción entre el acuífero, el río y la planicie inundable mallado Voronoi implementando paquete River</h1>
-
-### Haga clic en el ícono de Google Colab para ejecutar el código por celdas. En este entorno, encontrará comentarios descriptivos en cada celda explicando la función del código.
-
- <td>
-    <a href="https://colab.research.google.com/drive/1eu3JjklfBjkz9MNRLT_GZs6sDgnaMrRu" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
-  </td>
-  <td>
     
 <h1 id="1.7-Laboratorio-Unidad-1.-Modelación-numérica-de-la-interacción-entre-el-acuífero,-el-río-y-la-planicie-inundable-usando-Visual-MODFLOW-y-QGIS" align="center">1.7 Laboratorio Unidad 1.  Modelación numérica de la interacción entre el acuífero, el río y la planicie inundable usando visual MODFLOW y Qgis</h1>
 
