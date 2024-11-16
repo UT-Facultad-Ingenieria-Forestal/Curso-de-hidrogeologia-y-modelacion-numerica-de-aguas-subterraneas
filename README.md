@@ -60,13 +60,9 @@
 ### Aplicación de realidad aumentada interactiva: Grundwasser App.
 Aplicación de aprendizaje sobre aguas subterráneas con un laboratorio con el que podrás jugar. En tres breves capítulos, podrás aprender cómo se forma el agua subterránea, cómo la utilizamos los humanos y qué tienen que ver los ríos con ella. Después, podrás jugar en el laboratorio de aguas subterráneas y experimentar las interacciones entre el acuífero, el río y la planicie inundable para diferentes condiciones.
 
-<img src="https://github.com/user-attachments/assets/fe81d94a-0f8b-4a63-9e38-c6357931c6c1" width="600" />   <img src="https://github.com/user-attachments/assets/fe9c49e8-1c8e-4d25-a90f-30af3c67ddbd" width="600" />
+<img src="https://github.com/user-attachments/assets/fe81d94a-0f8b-4a63-9e38-c6357931c6c1" width="800" />  
 
-Desarrollador: Koboldgames
-Patrocinador: EAWAG
-Fecha de lanzamiento: 21/10/2015
-
-
+<img src="https://github.com/user-attachments/assets/fe9c49e8-1c8e-4d25-a90f-30af3c67ddbd" width="800" />
 
 
 <h1 id="1.2-Intercambio-hiporreico-y-métodos-de-cuantificación-de-las-interacciones-entre-el-acuífero-el-río-y-la-planicie-inundable" align="center">1.2 Intercambio hiporreico y métodos de cuantificación de las interacciones entre el acuífero, el río y la planicie inundable</h1>
