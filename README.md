@@ -93,6 +93,12 @@ Fecha de lanzamiento: 21/10/2015
 (https://www.aquaveo.com/images/hgs/hgs-intro.mp4) 
 </p>
 
+### Haga clic en el ícono de Powerpoint para ver la presentación "Modelación numérica de la interacción entre el acuífero, el río y la planicie inundable bajo escenarios de explotación"
+<p align="center">
+  <a href="https://docs.google.com/presentation/d/1Kmnfve9cD0YXtY7SbeS2a5GD6s3sQc6k/edit?usp=drive_link&ouid=108382194107643842204&rtpof=true&sd=true">
+  <img src="https://camo.githubusercontent.com/dcc5351c70c3503723c8e9b66f2da43e8c5b426b923459de9e9e62e914ef154e/68747470733a2f2f6c6f676f77696b2e636f6d2f636f6e74656e742f75706c6f6164732f696d616765732f3536375f706f776572706f696e74323031332e6a7067" width="120" height="120" alt="Google Forms">
+</a>
+
 <h1 id="1.4-Práctico-1.-Modelación-numérica-de-la-interacción-entre-el-acuífero-el-río-y-la-planicie-inundable-bajo-escenarios-de-explotación" align="center">1.4 Práctico 1. Modelación numérica de la interacción entre el acuífero, el río y la planicie inundable bajo escenarios de explotación</h1>
 
 ### Haga clic en el ícono de Google Colab para ejecutar el código por celdas. En este entorno, encontrará comentarios descriptivos en cada celda explicando la función del código.
