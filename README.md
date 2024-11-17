@@ -228,7 +228,7 @@ Este análisis deberá ser presentado de manera oral y también mediante un info
 
 **Introducción:** Proporcione un contexto sobre el problema de investigación, definiendo claramente los objetivos del estudio y la relevancia del caso escogido.
 
-**Metodología:** Describa detalladamente los métodos y herramientas de modelación utilizados en el estudio original, especialmente aquellos aplicados para cuantificar la interacción entre acuíferos, ríos y planicies inundables. Incorpore una discusión sobre la adecuación de estas herramientas para abordar los desafíos identificados en el caso de estudio.
+**Metodología:** Describa detalladamente los métodos y herramientas de modelación utilizados en el estudio, especialmente aquellos aplicados para cuantificar la interacción entre acuíferos, ríos y planicies inundables. Incorpore una discusión sobre la adecuación de estas herramientas para abordar los desafíos identificados en el caso de estudio.
 
 **Resultados:** Presente un resumen de los hallazgos principales del artículo, enfocándose en aquellos aspectos que son directamente relevantes para el caso de estudio. Evalúe cómo estos resultados contribuyen a entender la dinámica del sistema hidrológico estudiado.
 
@@ -236,6 +236,7 @@ Este análisis deberá ser presentado de manera oral y también mediante un info
 
 **Propuestas de Mejora:** Con base en su análisis, proponga mejoras o alternativas que podrían ser implementadas tanto en el estudio como en prácticas de gestión real. Justifique por qué estas mejoras podrían ser efectivas, basándose en evidencia científica y en los resultados del artículo.
 
+El informe, junto con cualquier material de soporte para la presentación oral, deberá ser entregado a través del Ambiente Virtual de Aprendizaje Github Classroom en la fecha establecida. 
 
 
 
