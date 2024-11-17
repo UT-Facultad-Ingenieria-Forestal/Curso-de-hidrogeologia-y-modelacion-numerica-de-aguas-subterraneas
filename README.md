@@ -222,7 +222,19 @@ Seleccionar una zona de estudio representativa con datos disponibles
 
 <h1 id="1.8-Presentacion-de-un-caso-de-estudio-real" align="center">1.8 Presentacion de un caso de estudio real</h1>
 
+Como parte de su formación, se les solicita a los estudiantes que accedan a la carpeta denominada "Artículos_Científicos" en Github Classroom. Dentro de esta carpeta, deben seleccionar un artículo científico que servirá como base para analizar un caso de estudio real.
 
+Este análisis deberá ser presentado de manera oral y también mediante un informe escrito y deben contener las siguientes secciones claramente definidas:
+
+**Introducción:** Proporcione un contexto sobre el problema de investigación, definiendo claramente los objetivos del estudio y la relevancia del caso escogido.
+
+**Metodología:** Describa detalladamente los métodos y herramientas de modelación utilizados en el estudio original, especialmente aquellos aplicados para cuantificar la interacción entre acuíferos, ríos y planicies inundables. Incorpore una discusión sobre la adecuación de estas herramientas para abordar los desafíos identificados en el caso de estudio.
+
+**Resultados:** Presente un resumen de los hallazgos principales del artículo, enfocándose en aquellos aspectos que son directamente relevantes para el caso de estudio. Evalúe cómo estos resultados contribuyen a entender la dinámica del sistema hidrológico estudiado.
+
+**Conclusiones:** Sintetice los puntos clave del estudio y su aplicabilidad en la gestión de recursos hídricos. Reflexione sobre las implicaciones de estos hallazgos para futuras investigaciones o para la mejora en la gestión de los recursos hídricos.
+
+**Propuestas de Mejora:** Con base en su análisis, proponga mejoras o alternativas que podrían ser implementadas tanto en el estudio como en prácticas de gestión real. Justifique por qué estas mejoras podrían ser efectivas, basándose en evidencia científica y en los resultados del artículo.
 
 
 
